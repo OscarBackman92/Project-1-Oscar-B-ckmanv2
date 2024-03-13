@@ -53,6 +53,18 @@ h1 {
     border-bottom: 1px solid darkslategray;
 }
 
+/* Navbar styling with drop down */
+nav {
+    position: absolute;
+    background-color: rgba(242, 253, 92, 0.986) ;
+    width: 100%;
+    left: 0;
+    padding: 0 1rem;
+    box-shadow: 0 2px 2px darkslategray;
+    display: none;
+    top: 100%;
+}
+
 /* Main content */
 main {
     background-color: lightblue;
