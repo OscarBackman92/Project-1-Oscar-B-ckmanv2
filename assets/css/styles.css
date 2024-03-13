@@ -89,6 +89,7 @@ main {
     background-color: lightblue;
     /* Main element takes avalible space */
     flex: 1 0 auto;
+    margin-top: 43px;
 }
 
 /* footer */
