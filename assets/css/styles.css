@@ -15,7 +15,7 @@ body {
     flex-direction: column;
     /* generic project styles */
     color: darkslategray;
-    font-family:'Truculenta', sans-serif ;
+    font-family:'open sans', sans-serif ;
 }
 
 /* Header */
@@ -23,6 +23,9 @@ header {
     background-color: lightcoral ;
 }
 
+h1 {
+    font-family: 'Truculenta', sans-serif;
+}
 /* Main content */
 main {
     background-color: lightblue;
