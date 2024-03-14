@@ -86,12 +86,17 @@ nav {
 
 /* Main content */
 main {
-    background-color: lightblue;
     /* Main element takes avalible space */
     flex: 1 0 auto;
     margin-top: 43px;
 }
 
+/* Hero */
+#hero {
+    height: 600px;
+    width: 100%;
+    background:url("../images/Hero-image\ first.html")
+}
 /* footer */
 #social-networks {
     text-align: center;
