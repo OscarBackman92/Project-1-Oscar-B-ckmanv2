@@ -93,9 +93,21 @@ main {
 }
 
 /* footer */
-footer {
-    background-color: orange;
+#social-networks {
+    text-align: center;
+    padding: 20px 0;
+    display: flex;
+    justify-content: space-evenly;
+    list-style-type: none;
+    background-color: rgba(242, 253, 92, 0.986);
 }
+
+#social-networks i {
+    font-size: xx-large;
+    padding: 5%;
+    color: darkslategray;
+}
+
 /* Media query for tablet and lager screens (768px and up) */
 @media screen and (min-width: 768px) {
     /* Header */
