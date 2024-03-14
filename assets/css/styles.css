@@ -39,7 +39,7 @@ header a {
     text-decoration: none;
     color: inherit;
 }
-h1 {
+h1, h2, h3 {
     font-family: 'Truculenta', sans-serif;
     text-transform: uppercase;
     letter-spacing: 2px;
@@ -96,6 +96,15 @@ main {
     height: 600px;
     width: 100%;
     background: url(../images/theperfectloaf_my_best_sourdough_waffles-7.webp) no-repeat center center/cover;
+    position: relative;
+}
+
+#cover-text {
+    background-color: rgba(242, 253, 92, 0.986);
+    font-size: 80%;
+    padding: 0 1rem;
+    padding-top: 5px;
+    padding-left: 10px;
 }
 /* footer */
 #social-networks {

@@ -40,4 +40,4 @@ Happy coding!
 
 
 Hero image from google 
-https://www.google.com/search?sca_esv=9efc2208284496d4&rlz=1C1FHFK_svSE1034SE1034&hl=sv&sxsrf=ACQVn082xirakfkC0_qI5UaayWTapm8l1g:1710447336481&q=breakfast+food+truck+images&tbm=isch&source=lnms&prmd=ivnbz&sa=X&ved=2ahUKEwja95bvyPSEAxVWPhAIHa5uB2kQ0pQJegQIDBAB&biw=1278&bih=1269&dpr=1#imgrc=3gtCE4KR12bI7M
+https://www.google.com/search?sca_esv=9efc2208284496d4&rlz=1C1FHFK_svSE1034SE1034&hl=sv&sxsrf=ACQVn08YVeSPcf3RmmwlsotaxhYHO9QYFA:1710448349123&q=waffles&tbm=isch&source=lnms&prmd=ivnbz&sa=X&ved=2ahUKEwix8IXSzPSEAxWvPxAIHZJSAEYQ0pQJegQIExAB&biw=1278&bih=1269&dpr=1#imgrc=s1ISh0szdWKehM
