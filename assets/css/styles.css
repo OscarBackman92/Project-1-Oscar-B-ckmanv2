@@ -89,6 +89,7 @@ main {
     /* Main element takes avalible space */
     flex: 1 0 auto;
     margin-top: 43px;
+    background-color: black;
 }
 
 /* Hero */
@@ -96,7 +97,6 @@ main {
     height: 600px;
     width: 100%;
     background: url(../images/theperfectloaf_my_best_sourdough_waffles-7.webp) no-repeat center center/cover;
-     size: 80%;
     position: relative;
 }
 
@@ -108,6 +108,33 @@ main {
     padding: 0 1rem;
     padding-top: 5px;
     padding-left: 10px;
+}
+
+/* Menu items */
+#our-menu {
+    background-color: rgba(232, 235, 195, 0.863);
+    font-size: 200%;
+    padding-bottom: 10px;
+}
+
+#items {
+    font-size: 120%;
+    background-color: rgba(92, 253, 213, 0.767);
+    color:darkslategray;
+    font-family: 'Truculenta', sans-serif;
+    border-bottom: 1px solid darkslategray;
+}
+
+#items > li {
+    font-size: 100%;
+    text-transform: uppercase;
+}
+ol > li {
+    border-top: 1px solid darkslategray;
+}
+#items > li > p {
+    font-size: 80%;
+    color: darkslategray
 }
 
 /* footer */
@@ -176,5 +203,4 @@ main {
     main {
         margin-top: 56px;
     }
-    
 }
