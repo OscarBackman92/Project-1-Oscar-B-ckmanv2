@@ -18,13 +18,13 @@ body {
     display: flex;
     flex-direction: column;
     /* generic project styles */
-    color: darkslategray;
-    font-family:'open sans', sans-serif ;
+    color: darkslategray);
+    font-family:'open sans', sans-serif;
 }
 
 /* Header */
 header {
-    background-color: rgba(242, 253, 92, 0.986) ;
+    background-color: rgba(242, 253, 92, 0.986);
     padding: 0 1rem;
     position: fixed;
     z-index: 99;
@@ -89,7 +89,8 @@ main {
     /* Main element takes avalible space */
     flex: 1 0 auto;
     margin-top: 43px;
-    background-color: black;
+    background-color: rgba(248, 196, 26, 0.986);
+    text-align: center;
 }
 
 /* Hero */
