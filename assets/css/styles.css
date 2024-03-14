@@ -131,13 +131,16 @@ main {
         display: none;
     }
     #logo {
-        font-size: 280%;
-        line-height: 75px;
-        margin: 0 0.75rem;
+        font-size: 150%;
+        line-height: 50px;
+        margin: 0 0.2rem;
     }
     /* Push main content down for larger header */
     main {
-        margin-top: 75px;
+        margin-top: 50px;
+    }
+    #menu {
+        font-size: 80%;
     }
 }
 
@@ -145,6 +148,15 @@ main {
 @media screen and (min-width: 992px) {
     #menu a:hover {
         border-bottom: 1px solid #3a3a3a;
+    }
+    #logo {
+        font-size: 150%;
+    }
+    #menu {
+        font-size: 100%;
+    }
+    nav {
+        letter-spacing: 1em
     }
     
 }
