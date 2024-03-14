@@ -112,14 +112,16 @@ main {
 
 /* Menu items */
 #our-menu {
-    background-color: rgba(232, 235, 195, 0.863);
+    background-color: rgba(242, 253, 92, 0.986);
     font-size: 200%;
     padding-bottom: 10px;
 }
 
 #items {
-    font-size: 120%;
-    background-color: rgba(92, 253, 213, 0.767);
+    background-color: rgba(242, 253, 92, 0.562);
+    text-align: center;
+    font-size: 150%;
+    font-weight: bolder;
     color:darkslategray;
     font-family: 'Truculenta', sans-serif;
     border-bottom: 1px solid darkslategray;
@@ -136,6 +138,11 @@ ol > li {
     font-size: 80%;
     color: darkslategray
 }
+
+/* About us */
+
+
+
 
 /* footer */
 #social-networks {
