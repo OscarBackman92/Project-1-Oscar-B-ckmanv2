@@ -96,8 +96,11 @@ main {
     height: 600px;
     width: 100%;
     background: url(../images/theperfectloaf_my_best_sourdough_waffles-7.webp) no-repeat center center/cover;
+     size: 80%;
     position: relative;
 }
+
+
 
 #cover-text {
     background-color: rgba(242, 253, 92, 0.986);
@@ -106,6 +109,7 @@ main {
     padding-top: 5px;
     padding-left: 10px;
 }
+
 /* footer */
 #social-networks {
     text-align: center;
