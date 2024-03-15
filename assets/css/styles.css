@@ -163,6 +163,12 @@ div {
     background-color: rgba(242, 253, 92,0.733);
 }
 
+#about-us {
+    background-color: rgba(242, 253, 92, 0.986);
+    width: 100%;
+    margin-left: 0px;
+}
+
 /* subscription email */
 input[type="email"] {
     background-color: rgba(255, 232, 155, 0.986);
