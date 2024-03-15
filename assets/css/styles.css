@@ -126,13 +126,14 @@ main {
 
 
 #items {
-    background-color: rgba(234, 248, 43, 0.562);
-    text-align: center;
+    background-color: rgba(242, 253, 92,0.733);
+    text-align: center; 
     font-size: 100%;
     font-weight: bolder;
     color:darkslategray;
     font-family: 'Truculenta', sans-serif;
     border-bottom: 1px solid darkslategray;
+    margin-top: 135px;
 }
 
 #items > li {
@@ -153,6 +154,13 @@ div {
     font-weight: bold;
     color: darkslategray;
     margin: 15px;
+}
+
+/* About us section */
+#our-story {
+    margin-top: 135px;
+    font-family: 'Truculenta', sans-serif;
+    background-color: rgba(242, 253, 92,0.733);
 }
 
 /* subscription email */
