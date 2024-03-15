@@ -19,7 +19,7 @@ body {
     flex-direction: column;
     /* generic project styles */
     color: darkslategray);
-    font-family:'open sans', sans-serif;
+    font-family:'Truculenta', sans-serif;
 }
 
 /* Header */
@@ -89,7 +89,7 @@ nav {
 main {
     /* Main element takes avalible space */
     flex: 1 0 auto;
-    margin-top: 43px;
+    margin-top: 30px;
     background-color: rgba(248, 196, 26, 0.986);
     text-align: center;
 }
@@ -106,9 +106,7 @@ main {
 
 #cover-text {
     background-color: rgba(242, 253, 92, 0.986);
-    font-size: 90%;
-    padding: 0 1rem;
-    padding-top: 5px;
+    font-size: 100%;
     padding-left: 10px;
     width: 100%;
     margin-left: 0px;
@@ -119,11 +117,13 @@ main {
 }
 
 /* Menu items */
-#our-menu {
+#our-menu{
+    margin-top: 15px;
     background-color: rgba(242, 253, 92, 0.986);
     font-size: 150%;
     padding-bottom: 0px;
 }
+
 
 #items {
     background-color: rgba(234, 248, 43, 0.562);
