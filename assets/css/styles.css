@@ -140,7 +140,16 @@ ol > li {
     color: darkslategray
 }
 
-/* About us */
+/* font for div */
+div {
+    font-family: 'Truculenta', sans-serif;
+    font-weight: bold;
+}
+
+/* Styles to new */
+#new {
+    position: relative;
+}
 
 
 
