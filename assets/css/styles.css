@@ -254,11 +254,15 @@ form > h2{
     }
     #logo {
         font-size: 170%;
+        text-align: center;
     }
     #menu {
         font-size: 100%;
     }
     main {
         margin-top: 56px;
+    }
+    nav {
+        height: 52px;
     }
 }
