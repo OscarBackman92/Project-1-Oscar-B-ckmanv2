@@ -92,6 +92,9 @@ main {
     background-color: rgba(248, 196, 26, 0.986);
     text-align: center;
 }
+body {
+    background-color: rgba(248, 196, 26, 0.986);
+}
 
 /* Hero */
 #hero {
@@ -268,7 +271,7 @@ form > h2{
     }
 
     #our-menu {
-        margin-top: 5.7vh;
+        margin-top: 70px
     }
 
     /* Push main content down for larger header */
