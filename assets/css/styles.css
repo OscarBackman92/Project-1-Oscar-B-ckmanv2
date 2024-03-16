@@ -123,7 +123,7 @@ main {
 }
 
 
-#items {
+#breakfast {
     background-color: rgba(242, 253, 92,0.733);
     text-align: center; 
     font-size: 100%;
@@ -134,14 +134,14 @@ main {
     margin-top: 135px;
 }
 
-#items > li {
+#breakfast > li {
     font-size: 100%;
     text-transform: uppercase;
 }
 ol > li {
     border-top: 1px solid darkslategray;
 }
-#items > li > p {
+#breakfast > li > p {
     font-size: 80%;
     color: darkslategray
 }
