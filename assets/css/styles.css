@@ -385,3 +385,15 @@ form > h2{
         height: 42px;
     }
 }
+/* media query 1920px and up */
+@media screen and (min-width: 1920px) {
+    #hero {
+        min-height: 870px;
+    }
+    #breakfast {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+}
