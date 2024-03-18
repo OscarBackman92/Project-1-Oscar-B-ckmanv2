@@ -251,6 +251,18 @@ input[type="submit"] {
     font-weight: bolder;
 }
 
+#breakfast {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+#brunch {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}        
 form > h2{
     font-size: 120%;
 }
@@ -344,6 +356,18 @@ form > h2{
     input[type="email"] {
         width: 35%;
     }
+    #breakfast {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+    #brunch {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }        
 }
 
 /* Media query laptops and desktops (992px and up) */
@@ -364,6 +388,18 @@ form > h2{
     nav {
         height: 38px;
     }
+    #breakfast {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+    #brunch {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }        
 }
 
 /* media query 1440px and up */
@@ -395,6 +431,7 @@ form > h2{
         flex-direction: column;
         justify-content: center;
         align-items: center;
+    }        
 }
 /* media query 1920px and up */
 @media screen and (min-width: 1920px) {
