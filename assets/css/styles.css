@@ -281,7 +281,18 @@ form > h2{
         height: 35px;
         font-size: large;
     }
+    #hero {
+        min-height: 565px;
+    }
+
     #cover-text {
+        margin-top: 57px;
+    }
+    #our-menu {
+        margin-top: 57px;
+    }
+
+    #about-us {
         margin-top: 57px;
     }
     #menu {
