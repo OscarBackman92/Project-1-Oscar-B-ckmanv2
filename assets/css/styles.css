@@ -108,14 +108,14 @@ body {
 #cover-text {
     background-color: rgba(242, 253, 92, 0.986);
     font-size: 100%;
-    padding-left: 10px;
     width: 100%;
     margin: 10px 0;
     margin-top: 47px;
 }
 
 #cover-text > p {
-    font-size: 120%;
+    font-size: 100%;
+    text-transform: uppercase;
 }
 
 /* Menu items */
