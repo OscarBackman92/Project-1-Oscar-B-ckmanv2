@@ -365,3 +365,23 @@ form > h2{
         height: 52px;
     }
 }
+
+/* media query 1200px and up */
+@media screen and (min-width: 1200px) {
+    #menu a:hover{
+        border-bottom: 1px solid #3a3a3a;
+    }
+    logo {
+        font-size: 200%;
+        text-align: center;
+    }
+    #menu {
+        font-size: 120%;
+    }
+    main {
+        margin-top: 70px;
+    }
+    nav {
+        height: 60px;
+    }
+}
