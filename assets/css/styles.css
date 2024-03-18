@@ -278,10 +278,12 @@ form > h2{
         box-shadow: none;
         width: fit-content;
         padding-right: 1rem;
-        height: 25px;
+        height: 35px;
         font-size: large;
     }
-
+    #cover-text {
+        margin-top: 57px;
+    }
     #menu {
         display: flex;
     }
