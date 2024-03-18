@@ -209,6 +209,12 @@ div {
 
 
 /* contact */
+#contact {
+    text-transform: uppercase;
+}
+#open {
+    text-transform: uppercase;
+}
 
 /* subscription email */
 input[type="email"] {
