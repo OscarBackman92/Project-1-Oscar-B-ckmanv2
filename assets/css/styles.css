@@ -366,8 +366,8 @@ form > h2{
     }
 }
 
-/* media query 1200px and up */
-@media screen and (min-width: 1200px) {
+/* media query 1440px and up */
+@media screen and (min-width: 1440px) {
     #menu a:hover{
         border-bottom: 1px solid #3a3a3a;
     }
@@ -379,9 +379,9 @@ form > h2{
         font-size: 120%;
     }
     main {
-        margin-top: 70px;
+        margin-top: 0px;
     }
     nav {
-        height: 60px;
+        height: 42px;
     }
 }
