@@ -185,17 +185,19 @@ div {
 }
 
 /* About us section */
+#about-us h2 {
+    background-color: rgba(242, 253, 92, 0.986);
+    width: 100%;
+    margin-top: 47px;
+}
+
 #our-story {
     margin-top: 135px;
     font-family: 'Truculenta', sans-serif;
     background-color: rgba(242, 253, 92,0.733);
 }
 
-#about-us {
-    background-color: rgba(242, 253, 92, 0.986);
-    width: 100%;
-    margin-left: 0px;
-}
+
 
 /* contact */
 
