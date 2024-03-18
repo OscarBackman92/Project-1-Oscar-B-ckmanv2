@@ -45,3 +45,6 @@ https://www.google.com/search?sca_esv=9efc2208284496d4&rlz=1C1FHFK_svSE1034SE103
 Validated code. No errors 2024-03-14 23:06 //Oscar
 
 Styled for mobile kinda done, need approval from wife :)
+
+Phone coding done, moving on to larger screens
+Done with Ipad sizeing woopwoop
