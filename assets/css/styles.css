@@ -198,6 +198,12 @@ div {
     margin-top: 135px;
     font-family: 'Truculenta', sans-serif;
     background-color: rgba(242, 253, 92,0.733);
+    padding: 20px;
+    font-weight: bold;
+    margin-left: 20px;
+    margin-right: 20px;
+    font-size: 80%;
+    text-transform: uppercase;
 }
 
 
