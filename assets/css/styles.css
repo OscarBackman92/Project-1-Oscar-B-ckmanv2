@@ -130,6 +130,7 @@ body {
     margin-top: 45px;
     padding-top: 12px;
     text-transform: uppercase;
+    font-weight: 600;
 }
 #breakfast, #brunch {
     margin: 0 10px;
@@ -137,79 +138,16 @@ body {
     margin-bottom: 10px;
 }
 
+#breakfast li > p, #brunch li > p {
+    font-weight: 300;
+}
 ol {
     list-style-type: none;
-}
-/*#our-menu{*/
-    margin-top: 47px;
-    background-color: rgba(242, 253, 92, 0.986);
-    font-size: 100%;
-    width: 100%;
-    margin-left: 0px;
-}
-
-
-/*#breakfast {*/
-    background-color: rgba(242, 253, 92,0.733);
-    text-align: center; 
-    font-size: 100%;
-    font-weight: bolder;
-    color:darkslategray;
-    font-family: 'Truculenta', sans-serif;
-    border-bottom: 1px solid darkslategray;
-    margin: 0 auto;
-    margin-top: 5px;
-    margin-bottom: 5px;
-    text-transform: uppercase;
-    margin-left: 15px;
-    margin-right: 15px;
-    list-style-type: none;
-}
-
-/*#breakfast > li {*/
-    font-size: 100%;
-    text-transform: uppercase;
-}
-/*ol > li {*/
-    border-top: 1px solid darkslategray;
-}
-/*#breakfast > li > p {*/
-    font-size: 80%;
-    color: darkslategray
-}
-
-/* Brunch menu */
-/*#brunch {*/
-    background-color: rgba(242, 253, 92,0.733);
-    text-align: center; 
-    font-size: 100%;
-    font-weight: bolder;
-    color:darkslategray;
-    font-family: 'Truculenta', sans-serif;
-    border-bottom: 1px solid darkslategray;
-    margin-top: 5px;
-    text-transform: uppercase;
-    margin-left: 15px;
-    margin-right: 15px;
-    list-style-type: none;
-}
-
-/*#brunch > li { */
-    font-size: 100%;
-    text-transform: uppercase;
-}
-/*ol > li {*/
-    border-top: 1px solid darkslategray;
-}
-/*#brunch > li > p {*/
-    font-size: 80%;
-    color: darkslategray
 }
 
 /* font for div */
 div {
     font-family: 'Truculenta', sans-serif;
-    font-weight: bold;
     color: darkslategray;
     margin: 15px;
 }
@@ -235,11 +173,9 @@ div {
 }
 
 /* contact */
-#contact {
+#contact, #open {
     text-transform: uppercase;
-}
-#open {
-    text-transform: uppercase;
+    font-weight: bold;
 }
 
 /* subscription email */
