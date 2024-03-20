@@ -24,7 +24,7 @@ body {
 
 /* Header */
 header {
-    background-color: rgba(242, 253, 92, 0.986);
+    background-color: rgb(197, 185, 248);
     padding: 0 1rem;
     position: fixed;
     z-index: 99;
@@ -63,7 +63,7 @@ h1, h2, h3{
 /* Navbar styling with drop down */
 nav {
     position: absolute;
-    background-color: rgba(242, 253, 92, 0.986) ;
+    background-color: rgba(197, 185, 248, 0.884);
     width: 100%;
     left: 0;
     padding: 0 1rem;
@@ -91,11 +91,8 @@ nav {
 main {
     flex: 1 auto;
     /* Main element takes avalible space */
-    background-color: rgba(248, 196, 26, 0.986);
+    background-color: rgb(197, 185, 248);
     text-align: center;
-}
-body {
-    background-color: rgba(248, 196, 26, 0.986);
 }
 
 /* Hero */
@@ -180,7 +177,7 @@ div {
 
 /* subscription email */
 input[type="email"] {
-    background-color: rgba(255, 232, 155, 0.986);
+    background-color: rgba(242, 253, 92, 0.733);
     width: 57%;
     box-sizing: border-box;
     padding: 5px;
@@ -192,7 +189,7 @@ input[type="email"] {
 
 /* Subscription button */
 input[type="submit"] {
-    background-color: rgba(255, 232, 155, 0.986);
+    background-color: rgba(242, 253, 92, 0.733);
     padding: 3px;
     margin-bottom: 5px;
     box-sizing: border-box;
