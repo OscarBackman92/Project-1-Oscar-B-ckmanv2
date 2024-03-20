@@ -97,7 +97,7 @@ main {
 
 /* Hero */
 #hero {
-    min-height: 725px;
+    min-height: 700px;
     width: 100%;
     background: url(../images/theperfectloaf_my_best_sourdough_waffles-7.webp) no-repeat center center/cover;
     position: relative;
@@ -155,7 +155,8 @@ ol {
     margin:0 10px;
     margin-top: 135px;
     background-color: rgba(185, 223, 248, 0.800);
-    font-weight: bold;
+    text-transform: uppercase;
+    font-weight: 500;
 }
 
 
@@ -226,15 +227,8 @@ form > h2{
         font-weight: bold;
         text-transform: uppercase;
     }
-    #cover-text {
-        margin-top: 57px;
-    }
-
-    .about-us {
-        margin-top: 55px;
-    }
-    #our-story {
-        font-size: 110%;
+    hero {
+        min-height: 700px;
     }
 
     #menu {
@@ -258,9 +252,8 @@ form > h2{
     #menu {
         font-size: 80%;
     }
-    #breakfast, #brunch {
+    .our-menu {
         border-bottom: 0px;
-        font-size: 115%;
     }
     #contact {
         font-size: large;
@@ -296,12 +289,12 @@ form > h2{
     }
     hero {
         margin-top: 0px;
-        min-height: 1000px;
+        min-height: 725px;
     }
     .our-menu {
         display: flex;
         justify-content: space-between;
-        margin: 125px;
+        margin-top: 55px;
     }        
 }
 
