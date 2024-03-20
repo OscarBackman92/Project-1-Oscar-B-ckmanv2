@@ -24,7 +24,7 @@ body {
 
 /* Header */
 header {
-    background-color: rgb(185, 223, 248);
+    background-color: rgba(253, 215, 92, 0.986);
     padding: 0 1rem;
     position: fixed;
     z-index: 99;
@@ -63,7 +63,7 @@ h1, h2, h3{
 /* Navbar styling with drop down */
 nav {
     position: absolute;
-    background-color: rgb(185, 223, 248);
+    background-color: rgba(253, 215, 92, 0.986);
     width: 100%;
     left: 0;
     padding: 0 1rem;
@@ -91,7 +91,7 @@ nav {
 main {
     flex: 1 auto;
     /* Main element takes avalible space */
-    background-color: rgb(185, 223, 248);
+    background-color: rgba(253, 215, 92, 0.986);
     text-align: center;
 }
 
@@ -131,7 +131,7 @@ main {
 }
 #breakfast, #brunch {
     margin: 0 10px;
-    background-color: rgba(253, 215, 92, 0.800);
+    background-color: rgba(185, 223, 248, 0.800);
     margin-bottom: 10px;
 }
 
@@ -142,12 +142,6 @@ ol {
     list-style-type: none;
 }
 
-/* font for div */
-div {
-    font-family: 'Truculenta', sans-serif;
-    color: darkslategray;
-    margin: 15px;
-}
 
 /* About us section */
 #about-us {
@@ -160,7 +154,7 @@ div {
 #our-story {
     margin-top: 135px;
     font-family: 'Truculenta', sans-serif;
-    background-color: rgba(253, 215, 92, 0.800);
+    background-color: rgba(185, 223, 248, 0.800);
     padding: 5px;
     font-weight: bold;
     margin-left: 15px;
@@ -177,7 +171,7 @@ div {
 
 /* subscription email */
 input[type="email"] {
-    background-color: rgba(253, 215, 92, 0.800);
+    background-color: rgba(185, 223, 248, 0.800);
     width: 57%;
     box-sizing: border-box;
     padding: 5px;
@@ -189,7 +183,7 @@ input[type="email"] {
 
 /* Subscription button */
 input[type="submit"] {
-    background-color: rgba(253, 215, 92, 0.800);
+    background-color: rgba(185, 223, 248, 0.800);
     padding: 3px;
     margin-bottom: 5px;
     box-sizing: border-box;
@@ -211,7 +205,7 @@ form > h2{
     display: flex;
     justify-content: space-evenly;
     list-style-type: none;
-    background-color: rgba(253, 215, 92, 0.986);
+    background-color: rgb(185, 223, 248);
 }
 
 #social-networks i {
