@@ -251,18 +251,7 @@ input[type="submit"] {
     font-weight: bolder;
 }
 
-#breakfast {
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-}
-#brunch {
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-}        
+        
 form > h2{
     font-size: 120%;
 }
