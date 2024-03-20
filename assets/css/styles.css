@@ -144,23 +144,19 @@ ol {
 }
 
 /* About us section */
-#about-us {
+
+.about-us {
     background-color: rgba(253, 215, 92, 0.986);
     width: 100%;
     margin-top: 47px;
-    margin-left: 0px;
 }
 
-#our-story {
+#our-story{
+    margin:0 10px;
     margin-top: 135px;
-    font-family: 'Truculenta', sans-serif;
     background-color: rgba(185, 223, 248, 0.800);
-    color: #3a3a3a;
-    padding: 5px;
-    margin-left: 15px;
-    margin-right: 15px;
-    text-transform: uppercase;
 }
+
 
 /* contact */
 #contact, #open {
@@ -230,7 +226,7 @@ form > h2{
         text-transform: uppercase;
     }
     #hero {
-        min-height: 640px;
+        min-height: 725px;
     }
 
     #cover-text {
@@ -265,9 +261,6 @@ form > h2{
     #menu {
         font-size: 80%;
     }
-    .our-menu {
-        margin-top: 55px;
-    }
     #breakfast, #brunch {
         border-bottom: 0px;
         font-size: 115%;
@@ -298,23 +291,20 @@ form > h2{
     #menu {
         font-size: 100%;
     }
+    nav {
+        height: 37px;
+    }
     main {
         margin-top: 0px;
     }
-    nav {
-        height: 38px;
+    hero {
+        margin-top: 0px;
+        min-height: 1000px;
     }
-    #breakfast {
+    .our-menu {
         display: flex;
-        flex-direction: column;
-        justify-content: center;
-        align-items: center;
-    }
-    #brunch {
-        display: flex;
-        flex-direction: column;
-        justify-content: center;
-        align-items: center;
+        justify-content: space-between;
+        margin: 125px;
     }        
 }
 
@@ -336,12 +326,7 @@ form > h2{
     nav {
         height: 42px;
     }
-    .our-menu {
-        display: flex;
-        justify-content: space-between;
-        align-items: start;
-        padding: 20px;
-    }        
+    
 }
 /* media query 1920px and up */
 @media screen and (min-width: 1920px) {
