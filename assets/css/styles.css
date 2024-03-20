@@ -123,13 +123,13 @@ body {
 /* Menu items */
 .our-menu {
     flex-direction: column;
-    background-color: rgba(242, 253, 92,0.733);
-
+    margin-top: 25px;
 }
 #breakfast, #brunch {
     margin: 0 10px;
-    list-style-type: none;
+    background-color: rgba(242, 253, 92,0.733);
 }
+
 ol {
     list-style-type: none;
 }
