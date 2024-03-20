@@ -241,9 +241,6 @@ form > h2{
     #cover-text {
         margin-top: 57px;
     }
-    #our-menu {
-        margin-top: 57px;
-    }
 
     #about-us {
         margin-top: 57px;
@@ -273,14 +270,13 @@ form > h2{
     #menu {
         font-size: 80%;
     }
-    #breakfast {
+    .our-menu {
+        margin-top: 55px;
+    }
+    #breakfast, #brunch {
         border-bottom: 0px;
         font-size: 115%;
     }
-    #brunch {
-        font-size: 115%;
-    }
-
     #contact {
         font-size: large;
     }
