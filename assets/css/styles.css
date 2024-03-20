@@ -100,7 +100,7 @@ body {
 
 /* Hero */
 #hero {
-    min-height: 700px;
+    min-height: 725px;
     width: 100%;
     background: url(../images/theperfectloaf_my_best_sourdough_waffles-7.webp) no-repeat center center/cover;
     position: relative;
@@ -129,6 +129,7 @@ body {
     flex-direction: column;
     margin-top: 45px;
     padding-top: 12px;
+    text-transform: uppercase;
 }
 #breakfast, #brunch {
     margin: 0 10px;
