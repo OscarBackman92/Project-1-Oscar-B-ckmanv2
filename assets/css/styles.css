@@ -424,7 +424,7 @@ form > h2{
     #breakfast {
         display: flex;
         flex-direction: column;
-        justify-content: center;
+        justify-content: space-between;
         align-items: center;
         margin-left: 70vh;
         margin-right: 70vh;
@@ -432,8 +432,8 @@ form > h2{
    #brunch {
     display: flex;
     flex-direction: column;
-    justify-content: flex-start;
     align-items: center;
+    justify-content: space-between
     margin-left: 70vh;
     margin-right: 70vh;
     }      
