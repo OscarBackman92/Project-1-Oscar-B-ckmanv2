@@ -121,7 +121,19 @@ body {
 }
 
 /* Menu items */
-#our-menu{
+.our-menu {
+    flex-direction: column;
+    background-color: rgba(242, 253, 92,0.733);
+
+}
+#breakfast, #brunch {
+    margin: 0 10px;
+    list-style-type: none;
+}
+ol {
+    list-style-type: none;
+}
+/*#our-menu{*/
     margin-top: 47px;
     background-color: rgba(242, 253, 92, 0.986);
     font-size: 100%;
@@ -130,7 +142,7 @@ body {
 }
 
 
-#breakfast {
+/*#breakfast {*/
     background-color: rgba(242, 253, 92,0.733);
     text-align: center; 
     font-size: 100%;
@@ -147,20 +159,20 @@ body {
     list-style-type: none;
 }
 
-#breakfast > li {
+/*#breakfast > li {*/
     font-size: 100%;
     text-transform: uppercase;
 }
-ol > li {
+/*ol > li {*/
     border-top: 1px solid darkslategray;
 }
-#breakfast > li > p {
+/*#breakfast > li > p {*/
     font-size: 80%;
     color: darkslategray
 }
 
 /* Brunch menu */
-#brunch {
+/*#brunch {*/
     background-color: rgba(242, 253, 92,0.733);
     text-align: center; 
     font-size: 100%;
@@ -175,14 +187,14 @@ ol > li {
     list-style-type: none;
 }
 
-#brunch > li {
+/*#brunch > li { */
     font-size: 100%;
     text-transform: uppercase;
 }
-ol > li {
+/*ol > li {*/
     border-top: 1px solid darkslategray;
 }
-#brunch > li > p {
+/*#brunch > li > p {*/
     font-size: 80%;
     color: darkslategray
 }
@@ -340,18 +352,6 @@ form > h2{
     }
     input[type="email"] {
         width: 35%;
-    }
-    #breakfast {
-        display: flex;
-        flex-direction: column;
-        justify-content: center;
-        align-items: center;
-    }
-    #brunch {
-        display: flex;
-        flex-direction: column;
-        justify-content: center;
-        align-items: center;
     }        
 }
 
@@ -404,12 +404,6 @@ form > h2{
     }
     nav {
         height: 42px;
-    }
-    #breakfast, #brunch {
-        display: flex;
-        flex-direction: column;
-        justify-content: center;
-        align-items: center;
     }
     .our-menu {
         display: flex;
