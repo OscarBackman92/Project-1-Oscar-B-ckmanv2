@@ -113,8 +113,8 @@ main {
 }
 
 #cover-text > p {
-    font-size: 100%;
     text-transform: uppercase;
+    font-size: 95%
 }
 
 /* Menu items */
@@ -141,7 +141,6 @@ main {
 ol {
     list-style-type: none;
 }
-
 
 /* About us section */
 #about-us {
