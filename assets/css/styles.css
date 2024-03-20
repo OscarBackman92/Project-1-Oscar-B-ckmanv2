@@ -405,13 +405,7 @@ form > h2{
     nav {
         height: 42px;
     }
-    #breakfast {
-        display: flex;
-        flex-direction: column;
-        justify-content: center;
-        align-items: center;
-    }
-    #brunch {
+    #breakfast, #brunch {
         display: flex;
         flex-direction: column;
         justify-content: center;
