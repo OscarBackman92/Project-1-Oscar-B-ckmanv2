@@ -127,7 +127,8 @@ body {
 
 .our-menu {
     flex-direction: column;
-    margin-top: 25px;
+    margin-top: 45px;
+    padding-top: 12px;
 }
 #breakfast, #brunch {
     margin: 0 10px;
