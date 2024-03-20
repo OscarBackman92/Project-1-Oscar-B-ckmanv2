@@ -121,6 +121,10 @@ body {
 }
 
 /* Menu items */
+.hidden {
+    display: none;
+}
+
 .our-menu {
     flex-direction: column;
     margin-top: 25px;
