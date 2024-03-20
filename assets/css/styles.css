@@ -416,25 +416,23 @@ form > h2{
         flex-direction: column;
         justify-content: center;
         align-items: center;
+    }
+    .our-menu {
+        display: flex;
+        justify-content: space-between;
+        align-items: start;
+        padding: 20px;
     }        
 }
 /* media query 1920px and up */
 @media screen and (min-width: 1920px) {
-
-    #breakfast {
+    .our-menu {
         display: flex;
-        flex-direction: column;
         justify-content: space-between;
-        align-items: center;
-        margin-left: 70vh;
-        margin-right: 70vh;
+        align-items: start;
     }
-    #brunch {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: space-between
-    margin-left: 70vh;
-    margin-right: 70vh;
-    }      
+    #breakfast, #brunch {
+        flex: 1;
+        margin: 0 10px;
+    }
 }
