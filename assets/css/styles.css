@@ -186,19 +186,6 @@ ol > li {
     font-size: 80%;
     color: darkslategray
 }
-#breakfast {
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-}
-#brunch {
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-}        
-
 
 /* font for div */
 div {
@@ -433,9 +420,7 @@ form > h2{
 }
 /* media query 1920px and up */
 @media screen and (min-width: 1920px) {
-    #hero {
-        min-height: 870px;
-    }
+
     #breakfast {
         display: flex;
         flex-direction: column;
@@ -444,7 +429,7 @@ form > h2{
         margin-left: 70vh;
         margin-right: 70vh;
     }
-}   #brunch {
+   #brunch {
     display: flex;
     flex-direction: column;
     justify-content: flex-start;
@@ -452,4 +437,4 @@ form > h2{
     margin-left: 70vh;
     margin-right: 70vh;
     }      
-}  
+}
