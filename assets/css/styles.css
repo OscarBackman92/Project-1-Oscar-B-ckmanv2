@@ -174,8 +174,7 @@ ol {
 #contact, #open {
     text-transform: uppercase;
     font-weight: bold;
-    letter-spacing: 4px;
-    line-height: 4px;
+    margin-bottom: 17px;
 }
 
 /* subscription email */
@@ -311,9 +310,8 @@ form > h2{
     main {
         margin-top: 0px;
     }
-    hero {
-        margin-top: 0px;
-        min-height: 725px;
+    #hero {
+        min-height: 700px;
     }
     .our-menu {
         display: flex;
