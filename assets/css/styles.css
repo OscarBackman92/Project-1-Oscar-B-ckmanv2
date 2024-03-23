@@ -164,7 +164,7 @@ ol {
     margin-right: 10px;
 }
 .intro, .waffle-history, .mission, .contact {
-    padding: 10px
+    padding: 10px;
 }
 
 /* contact */
@@ -314,8 +314,14 @@ form > h2{
         display: flex;
         justify-content: space-between;
         margin-top: 55px;
-    }        
-    #our-story p {
+    }
+    #our-story .intro
+    #our-story .waffle-history
+    #our-story .mission
+    #our-story .contact {
+        font-size: 15px;
+    }
+    #our-story h3 {
         font-size: 20px;
     }
 }
