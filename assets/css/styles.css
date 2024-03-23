@@ -163,6 +163,10 @@ ol {
     margin-left: 10px;
     margin-right: 10px;
 }
+.intro, .waffle-history, .mission, .contact {
+    padding: 10px
+}
+
 #our-story p {
     margin-bottom: 15px;
 }
