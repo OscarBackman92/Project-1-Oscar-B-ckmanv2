@@ -167,13 +167,6 @@ ol {
     padding: 10px
 }
 
-#our-story p {
-    margin-bottom: 15px;
-}
-#our-story p:last-child {
-    margin-bottom: 0px;
-}
-
 /* contact */
 #contact, #open {
     text-transform: uppercase;
