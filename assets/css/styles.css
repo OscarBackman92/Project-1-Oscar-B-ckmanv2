@@ -123,7 +123,6 @@ main {
 }
 
 .our-menu {
-    flex-direction: column;
     margin-top: 45px;
     padding-top: 12px;
     text-transform: uppercase;
@@ -264,6 +263,13 @@ form > h2{
 
     .about-us {
         margin-top: 55px;
+    }
+    #our-story {
+        padding: 20px;
+        height: auto;
+    }
+    #our-story p {
+        font-size: 16px;
     }
 
     /* Push main content down for larger header */
