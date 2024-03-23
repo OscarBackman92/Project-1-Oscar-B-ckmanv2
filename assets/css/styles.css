@@ -129,7 +129,7 @@ main {
     font-weight: 600;
 }
 #breakfast, #brunch {
-    margin: 0 10px;
+    margin: 20px 10px;
     background-color: rgba(185, 223, 248, 0.800);
     color: #3a3a3a;
     margin-bottom: 10px;
