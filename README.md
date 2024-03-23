@@ -54,3 +54,4 @@ Validated HTML Code for About us, No errors
 Validated CSS Code, No Errors
 feel like i am done with mobile code for CSS
 tested some bugs with code for background image. commmits arent very good sentenced. will work on it in the future
+About us section, There is no margin to the h2 in about us so the heading dosent show.
