@@ -238,7 +238,7 @@ form > h2{
     #cover-text {
         margin-top: 55px;
     }
-    #hero {
+    #hero, #hero-index, #hero-about {
         min-height: 600px;
     }
 
@@ -259,12 +259,9 @@ form > h2{
         text-align: center;
     }
 
-    .about-us {
-        margin-top: 65px;
-    }
     #our-story {
-        padding: 20px;
-        height: auto;
+        margin: 55px 10px;
+        padding: 0 5px;
     }
     #our-story p {
         font-size: 16px;
@@ -275,7 +272,7 @@ form > h2{
         font-size: 80%;
     }
     .our-menu {
-        margin-top: 55px;
+        margin-top: 47px;
         border-bottom: 0px;
     }
     #contact, #open {
