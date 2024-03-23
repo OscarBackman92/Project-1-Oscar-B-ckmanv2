@@ -105,7 +105,7 @@ main {
 }
 /* Hero menu image */
 #hero-menu {
-    min-height: 1000px;
+    min-height: 775px;
     width: 100%;
     background: url(../images/theperfectloaf_my_best_sourdough_waffles-7.webp) no-repeat center center/cover;
     position: relative;
@@ -133,7 +133,7 @@ main {
 }
 
 .our-menu {
-    margin-top: 45px;
+    margin-top: 47px;
     padding-top: 12px;
     text-transform: uppercase;
     font-weight: 600;
