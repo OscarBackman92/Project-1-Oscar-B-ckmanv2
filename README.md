@@ -10,8 +10,8 @@ You can safely delete this README.md file, or change it for your own project. Pl
 
 To run a frontend (HTML, CSS, Javascript only) application in Codeanywhere, in the terminal, type:
 
-`python3 -m http.server`
-
+``
+python3 -m http.server
 A button should appear to click: _Open Preview_ or _Open Browser_.
 
 To run a frontend (HTML, CSS, Javascript only) application in Codeanywhere with no-cache, you can use this alias for `python3 -m http.server`.
@@ -48,3 +48,7 @@ Styled for mobile kinda done, need approval from wife :)
 
 Phone coding done, moving on to larger screens
 Done with Ipad sizeing woopwoop
+Validated HTML Code for Index No errors
+Validated HTML Code for Ourmenu No errors
+Validated HTML Code for About us, No errors
+Validated CSS Code, No Errors
