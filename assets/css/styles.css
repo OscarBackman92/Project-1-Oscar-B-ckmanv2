@@ -227,6 +227,9 @@ form > h2{
         font-weight: bold;
         text-transform: uppercase;
     }
+    #cover-text {
+        margin-top: 55px;
+    }
     hero {
         min-height: 700px;
     }
@@ -248,17 +251,19 @@ form > h2{
         text-align: center;
     }
 
+    .about-us {
+        margin-top: 55px;
+    }
+
     /* Push main content down for larger header */
     #menu {
         font-size: 80%;
     }
     .our-menu {
+        margin-top: 55px;
         border-bottom: 0px;
     }
-    #contact {
-        font-size: large;
-    }
-    #open {
+    #contact, #open {
         font-size: large;
     }
     form > h2 {
