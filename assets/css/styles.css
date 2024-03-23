@@ -144,11 +144,7 @@ ol {
 
 /* About us section */
 
-.about-us {
-    background-color: rgba(253, 215, 92, 0.986);
-    width: 100%;
-    margin-top: 47px;
-}
+
 
 #our-story{
     flex-direction: column;
