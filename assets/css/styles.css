@@ -355,6 +355,7 @@ form > h2{
         margin: 0 10px;
     }
     #our-story p {
+        width: 80%;
         font-size: 21px;
     }
 }
