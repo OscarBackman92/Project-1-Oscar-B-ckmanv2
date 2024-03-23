@@ -52,3 +52,5 @@ Validated HTML Code for Index No errors
 Validated HTML Code for Ourmenu No errors
 Validated HTML Code for About us, No errors
 Validated CSS Code, No Errors
+feel like i am done with mobile code for CSS
+tested some bugs with code for background image. commmits arent very good sentenced. will work on it in the future
