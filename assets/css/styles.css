@@ -239,7 +239,7 @@ form > h2{
         margin-top: 55px;
     }
     hero {
-        min-height: 700px;
+        min-height: 600px;
     }
 
     #menu {
@@ -308,7 +308,7 @@ form > h2{
         margin-top: 0px;
     }
     #hero {
-        min-height: 700px;
+        min-height: 640px;
     }
     .our-menu {
         display: flex;
