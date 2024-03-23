@@ -152,16 +152,21 @@ ol {
 }
 
 #our-story{
-    margin: 0 10px;
-    margin-top: 20px;
     font-size: 85%;
     background-color: rgba(185, 223, 248, 0.800);
     text-transform: uppercase;
     font-weight: 500;
-    margin-bottom: 10px;
-    padding: 20px;
+    font-size: 80%;
+    max-width: 800px;
+    margin: 50px auto;
+    padding: 5px;
 }
-
+#our-story p {
+    margin-bottom: 30px;
+}
+#our-story p:last-child {
+    margin-bottom: 0px;
+}
 
 /* contact */
 #contact, #open {
