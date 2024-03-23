@@ -318,6 +318,9 @@ form > h2{
         justify-content: space-between;
         margin-top: 55px;
     }        
+    #our-story p {
+        font-size: 20px;
+    }
 }
 
 /* media query 1440px and up */
