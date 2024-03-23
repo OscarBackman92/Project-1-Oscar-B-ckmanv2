@@ -1,4 +1,4 @@
-/* Googel fonts */
+/* Google fonts */
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&family=Truculenta:opsz,wght@12..72,100..900&display=swap');
 
 /* Asterisk wildcard selector to override defaultstyles from browser */
@@ -113,7 +113,7 @@ main {
 
 /* Hero about image*/
 #hero-about {
-    min-height: 900px;
+    min-height: 800px;
     width: 100%;
     background: url(../images/theperfectloaf_my_best_sourdough_waffles-7.webp) no-repeat center center/cover;
     position: relative;
@@ -126,10 +126,6 @@ main {
     margin: 10px 0;
     margin-top: 47px;
 }
-#cover-text {
-    margin: 0 auto;
-}
-
 #cover-text > p {
     text-transform: uppercase;
     font-size: 95%
