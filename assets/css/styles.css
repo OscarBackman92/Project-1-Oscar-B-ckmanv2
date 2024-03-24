@@ -157,9 +157,7 @@ ol {
 }
 
 /* About us section */
-#about-us h2 {
-    display: none;
-}
+
 
 #our-story {
     margin-left: 20px;
@@ -355,9 +353,5 @@ form > h2{
     #breakfast, #brunch {
         flex: 1;
         margin: 0 10px;
-    }
-    #our-story p {
-        width: 80%;
-        font-size: 21px;
     }
 }
