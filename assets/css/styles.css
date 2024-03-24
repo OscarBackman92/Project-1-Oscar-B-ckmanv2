@@ -158,7 +158,7 @@ ol {
 
 /* About us section */
 #about-us h2 {
-    margin: 0 auto;
+    display: none;
 }
 
 #our-story {
