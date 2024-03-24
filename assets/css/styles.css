@@ -354,4 +354,14 @@ form > h2{
         flex: 1;
         margin: 0 10px;
     }
+    #hero {
+        min-height: 700px;
+    }
+    #hero-about {
+        min-height: 900px;
+    }
+    #our-story {
+        margin-left: 250px;
+        margin-right: 250px;
+    }
 }
