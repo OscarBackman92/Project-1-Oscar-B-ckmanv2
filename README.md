@@ -59,7 +59,12 @@ removed margins to about us in 768 and 992px
 Restyled hero images in 768px and 992px media queries
 
 
+# The Waffle Truck!
+## Northwest Stockholm, Jakobsberg, Sweden
 
+This is a website for a new Waffle truck in Jakobsberg Northwest stockholm Sweden. Avalible everyday serving you freshly made waffles in different forms and shapes.
+
+![responsive image](assets/readme_images/theperfectloaf_my_best_sourdough_waffles-7-1080x720.jpg)
 
 # Iceland 
 ## The Land of Fire & Ice
