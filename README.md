@@ -66,18 +66,12 @@ This is a website for a new Waffle truck in Jakobsberg Northwest stockholm Swede
 
 ![responsive image](assets/readme_images/theperfectloaf_my_best_sourdough_waffles-7-1080x720.jpg)
 
-# Iceland 
-## The Land of Fire & Ice
+[View the live site here.] (https://oscarbackman92.github.io/Project-1-Oscar-B-ckmanv2)
 
-This site is a travel blog of my experiences whilst touring the south of Iceland. The purpose of the site is to inspire more people to visit the island or provide information for those already wishing to visit. The site provides information relating to locations I visited and images of the locations and events I witnessed.
-
-![Responsive image](assets/readme_images/responsive.jpg)
-
-[View the live site here.](https://mwarddev.github.io/iceland/index.html)
 
 ## Contents
 
-* [Introduction](#iceland)
+* [Introduction](#the-waffle-truck)
 * [User Experience (UX)](#user-experience-ux)
     * [User Stories](#user-stories)
 * [Design (UXD)](#design-uxd)
