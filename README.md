@@ -49,6 +49,8 @@ The landing page features a captivating hero image and headings that introduce T
 The hero section showcases an enticing image related to waffles along with descriptive headings to attract visitors.
 
 #### Lower Navigation
+![lower nav](assets/readme_images/Lower%20nav.png)
+
 At the bottom of each page, there is a lower navigation section providing contact information, opening hours, and a newsletter subscription form.
 
 #### Footer
