@@ -359,3 +359,8 @@ form > h2{
         font-size: 21px;
     }
 }
+@media screen and (min-width: 1921px) {
+    #hero, #hero-menu, #hero-about {
+        min-height: 900px;
+    }
+}
