@@ -79,4 +79,10 @@ Connect with us on social media:
 - [YouTube](https://www.youtube.com/)
 - [Instagram](https://www.instagram.com/)
 
+## Navigation Bar
+The navigation bar allows you to easily navigate through our website. Here's what you'll find in the navigation menu:
+- **Home**: Navigate to the home page.
+- **Our Menu**: Explore our delicious waffle menu.
+- **About Us**: Learn more about The Waffle Truck and our story.
+
 Enjoy our delicious waffles at The Waffle Truck!
