@@ -55,6 +55,7 @@ At the bottom of each page, there is a lower navigation section providing contac
 
 #### Footer
 The footer contains links to The Waffle Truck's social media profiles, allowing visitors to stay connected.
+![Socials bar](assets/readme_images/social%20bar.png)
 
 ### Future Features
 
