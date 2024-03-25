@@ -57,38 +57,41 @@ At the bottom of each page, there is a lower navigation section providing contac
 The footer contains links to The Waffle Truck's social media profiles, allowing visitors to stay connected.
 ![Socials bar](assets/readme_images/social%20bar.png)
 
-### Future Features
-
-#### Image Carousel
-An image carousel will be added to showcase a variety of waffle offerings and events in a visually appealing manner.
-
 ## Testing
-
+testing have been continous throuhg out the develpoment ensuring that there are no un explanible bugs or misshaps.
 ### Functionality and Usability Testing
 Extensive testing was conducted to ensure that all features are functional and user-friendly across different devices and browsers.
 
 ### Focus Group Testing
 Focus group testing involved gathering feedback from potential customers to understand their preferences and improve the website accordingly.
+This is something i want to do more of, only my wife and her family have seen the site so far.
 
 ### Validator Testing
 The HTML and CSS code were validated to ensure compliance with web standards and best practices.
+I used for HTML validator W3C:
+Index.html code No errors 2024-03-25
+Menu.html code No errors 2024-03-25
+About-us code no Errors 2024-03-25
+css code shows no errors 2024-03-25
 
 ### Unfixed Bugs
 Any identified bugs were documented for future resolution and improvement of the website's performance.
+About-us H2 on mobile is visable under the navbar, i cannot figure out margins for it.
+H2 hidden else where.
 
 ## Deployment
-The website is deployed using a web hosting service, ensuring accessibility to users worldwide.
+The website is deployed using Github, ensuring accessibility to users worldwide.
 
 ## Credits
-
+My Wife Josefine for the contents in Abput us and items in our-menu.
 ### Content
-- Text content was written by [Your Name].
+- Text content was written by [Oscar Bäckman and Josefine Bäckman].
 
 ### Media
 - Images and videos were sourced from [Image Source].
 
 ### Code
-- HTML and CSS code were developed by [Your Name] based on design requirements.
+- HTML and CSS code were developed by [Oscar Bäckman] based on design requirements.
 
 ### Focus Group
-- Feedback and suggestions from focus group participants contributed to the refinement of the website design and features.
+- Feedback and suggestions from focus group participants contributed to the refinement of the website design and features. None other than Oscar Bäckman and Josefine Bäckman and our craving for waffles.
