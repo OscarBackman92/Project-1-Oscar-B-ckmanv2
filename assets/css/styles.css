@@ -354,17 +354,8 @@ form > h2{
         flex: 1;
         margin: 0 10px;
     }
-    #hero {
-        min-height: 900px;
-    }
-    #hero-menu {
-        min-height: 900px;
-    }
-    #hero-about {
-        min-height: 900px;
-    }
-    #our-story {
-        margin-left: 250px;
-        margin-right: 250px;
+    #our-story p {
+        width: 80%;
+        font-size: 21px;
     }
 }
