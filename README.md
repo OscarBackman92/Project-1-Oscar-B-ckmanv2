@@ -11,8 +11,6 @@ Welcome to The Waffle Truck, your ultimate destination for delicious waffles in 
     - [Hero Image and Headings](#hero-image-and-headings)
     - [Lower Navigation](#lower-navigation)
     - [Footer](#footer)
-    - [Fire Page](#fire-page)
-    - [Ice Page](#ice-page)
     - [Image Gallery](#image-gallery)
     - [Info Video](#info-video)
   - [Future Features](#future-features)
