@@ -41,9 +41,9 @@ The navigation bar provides easy access to different sections of the website, in
 
 #### Landing Page
 The landing page features a captivating hero image and headings that introduce The Waffle Truck and its offerings.
-[!responsive](assets/readme_images/theperfectloaf_my_best_sourdough_waffles-7-1080x720.jpg)
 
 #### Hero Image and Headings
+![Hero Image](assets/readme_images/theperfectloaf_my_best_sourdough_waffles-7-1080x720.jpg)
 The hero section showcases an enticing image related to waffles along with descriptive headings to attract visitors.
 
 #### Lower Navigation
