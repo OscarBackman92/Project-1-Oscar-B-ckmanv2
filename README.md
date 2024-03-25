@@ -86,7 +86,7 @@ My Wife Josefine for the contents in About us and items in our-menu.
 - Text content was written by [Oscar Bäckman and Josefine Bäckman].
 
 ### Media
-- Images and videos were sourced from [Image Source].
+- Images and videos were sourced from [Image Source](https://www.theperfectloaf.com/my-best-sourdough-waffles/)].
 
 ### Code
 - HTML and CSS code were developed by [Oscar Bäckman] based on design requirements.
