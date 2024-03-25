@@ -81,7 +81,7 @@ H2 hidden else where.
 The website is deployed using Github, ensuring accessibility to users worldwide.
 
 ## Credits
-My Wife Josefine for the contents in Abput us and items in our-menu.
+My Wife Josefine for the contents in About us and items in our-menu.
 ### Content
 - Text content was written by [Oscar Bäckman and Josefine Bäckman].
 
