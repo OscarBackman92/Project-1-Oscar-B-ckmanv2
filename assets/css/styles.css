@@ -357,6 +357,9 @@ form > h2{
     #hero {
         min-height: 900px;
     }
+    #hero-menu {
+        min-height: 900px;
+    }
     #hero-about {
         min-height: 900px;
     }
