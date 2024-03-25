@@ -56,18 +56,6 @@ At the bottom of each page, there is a lower navigation section providing contac
 #### Footer
 The footer contains links to The Waffle Truck's social media profiles, allowing visitors to stay connected.
 
-#### Fire Page
-This page features information about waffles with a fire theme, including related images and content.
-
-#### Ice Page
-Similar to the fire page, the ice page presents information about waffles with an ice theme, along with relevant imagery and content.
-
-#### Image Gallery
-An image gallery displays enticing images of waffles, enticing visitors with visual appeal.
-
-#### Info Video
-A video provides additional information about The Waffle Truck, offering a dynamic way to engage with visitors.
-
 ### Future Features
 
 #### Image Carousel
