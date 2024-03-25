@@ -238,7 +238,7 @@ form > h2{
     #cover-text {
         margin-top: 55px;
     }
-    #hero, #hero-index, #hero-about {
+    #hero, #hero-menu, #hero-about {
         min-height: 900px;
     }
 
@@ -345,6 +345,9 @@ form > h2{
 }
 /* media query 1920px and up */
 @media screen and (min-width: 1920px) {
+    #hero, #hero-menu, #hero-about {
+        min-height: 900px;
+    }
     .our-menu {
         display: flex;
         justify-content: space-between;
