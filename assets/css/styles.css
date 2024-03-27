@@ -357,9 +357,12 @@ form > h2{
         flex: 1;
         margin: 0 10px;
     }
-    #our-story p {
-        width: 80%;
-        font-size: 21px;
+    #our-story {
+        margin-left: 100px;
+        margin-right: 100px;
+    }
+    #hero, #hero-menu, #hero-about {
+        min-height: 900px;
     }
 }
 @media screen and (min-width: 1921px) {
