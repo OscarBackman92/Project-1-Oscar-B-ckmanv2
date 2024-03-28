@@ -66,11 +66,7 @@ This is something i want to do more of, only my wife and her family have seen th
 
 ### Validator Testing
 The HTML and CSS code were validated to ensure compliance with web standards and best practices.
-I used for HTML validator W3C:
-Index.html code No errors 2024-03-25
-Menu.html code No errors 2024-03-25
-About-us code no Errors 2024-03-25
-css code shows no errors 2024-03-25
+
 
 ### Unfixed Bugs
 Any identified bugs were documented for future resolution and improvement of the website's performance.
@@ -79,6 +75,7 @@ H2 hidden else where.
 
 ## Deployment
 The website is deployed using Github, ensuring accessibility to users worldwide.
+
 
 ## Credits
 My Wife Josefine for the contents in About us and items in our-menu.
