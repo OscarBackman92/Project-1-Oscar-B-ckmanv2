@@ -56,7 +56,7 @@ The footer contains links to The Waffle Truck's social media profiles, allowing 
 ![Socials bar](assets/readme_images/social%20bar.png)
 
 ## Testing
-testing have been continous throuhg out the develpoment ensuring that there are no un explanible bugs or misshaps.
+Testing have been continous throuhg out the develpoment ensuring that there are no un explanible bugs or misshaps.
 ### Functionality and Usability Testing
 Extensive testing was conducted to ensure that all features are functional and user-friendly across different devices and browsers.
 
