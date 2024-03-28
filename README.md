@@ -72,6 +72,10 @@ Testing was focused on accesibility everyone
 - That there is an alt text to images on the website
 - WCAG 2.1 Coding best practices being followed
 
+### Lighthouse Testing
+
+![lighthouse](assets/readme_images/lighthouse-test.png)
+
 ### Deployment to Github Pages
 
 - The site was deployed to GitHub pages. The steps to deploy are as follows: 
