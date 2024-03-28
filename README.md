@@ -74,12 +74,11 @@ About-us H2 on mobile is visable under the navbar, i cannot figure out margins f
 H2 hidden else where.
 
 ## Deployment
-The website is deployed using Github, ensuring accessibility to users worldwide.
-The site was deployed to GitHub pages. The steps to deploy are as follows:
-In the GitHub repository, navigate to the Settings tab
-From the menu on left select 'Pages'
-From the source section drop-down menu, select the Branch: main
-Click 'Save'
+-The website is deployed using Github, ensuring accessibility to users worldwide. As follows.
+  -In the GitHub repository, navigate to the Settings tab
+  -From the menu on left select 'Pages'
+  -From the source section drop-down menu, select the Branch: main
+  -Click 'Save'
 
 
 ## Credits
