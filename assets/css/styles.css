@@ -164,7 +164,8 @@ ol {
     margin-right: 20px;
     background-color: rgba(185, 223, 248, 0.800);
     color: #3a3a3a;
-    margin-top: 47px
+    margin-top: 47px;
+    text-transform: uppercase;
 }
 
 /* contact */
