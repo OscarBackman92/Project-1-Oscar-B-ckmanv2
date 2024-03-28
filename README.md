@@ -79,23 +79,10 @@ As expected. The website is responsive to screensizes and images is working and 
 Tried the website on and Iphone 13 and Iphone 11 with no issues.
 
 
-###
-
-### Functionality and Usability Testing
-Extensive testing was conducted to ensure that all features are functional and user-friendly across different devices and browsers.
-
-### Focus Group Testing
-Focus group testing involved gathering feedback from potential customers to understand their preferences and improve the website accordingly.
-This is something i want to do more of, only my wife and her family have seen the site so far.
-
-### Validator Testing
-The HTML and CSS code were validated to ensure compliance with web standards and best practices.
+### Accesibility
 
 
-### Unfixed Bugs
-Any identified bugs were documented for future resolution and improvement of the website's performance.
-About-us H2 on mobile is visable under the navbar, i cannot figure out margins for it.
-H2 hidden else where.
+
 
 ### Deployment to Github Pages
 
