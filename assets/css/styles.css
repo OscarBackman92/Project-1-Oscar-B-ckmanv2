@@ -344,6 +344,11 @@ form > h2{
     nav {
         height: 42px;
     }
+    .our-menu {
+        display: flex;
+        justify-content: space-around;
+        align-items: start;
+    }
     
 }
 /* media query 1920px and up */
