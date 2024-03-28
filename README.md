@@ -48,6 +48,7 @@ At the bottom of each page, there is a lower navigation section providing contac
 
 #### Footer
 ![Socials bar](assets/readme_images/social-bar.png)
+
 - The footer contains icons as links to all our social media websites, and will open in new tabs as you click on them. And for the visually impaired waffle fanatics using a screenreader the aria-labels will help with navigation.
 
 
