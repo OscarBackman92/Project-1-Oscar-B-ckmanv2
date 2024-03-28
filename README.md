@@ -100,6 +100,19 @@ The following git commands were used throughout development to push code to the 
 
 The live link can be found here - https://oscarbackman92.github.io/Project-1-Oscar-B-ckmanv2
 
+### Clone the Repository Code Locally
+
+Navigate to the GitHub Repository you want to clone to use locally:
+
+- Click on the code drop down button
+- Click on HTTPS
+- Copy the repository link to the clipboard
+- Open your IDE of choice (git must be installed for the next steps)
+- Type git clone copied-git-url into the IDE terminal
+
+The project will now of been cloned on your local machine for use.
+
+
 ## Credits
 
 - My Wife Josefine for the contents in About us and items in our-menu.
