@@ -81,7 +81,7 @@ Tried the website on and Iphone 13 and Iphone 11 with no issues.
 
 ### Accesibility
 
-
+[Wave Accessibility](https://wave.webaim.org/) tool was used in the later stages of development and for final testing of the deployed website to check for any aid accessibility testing.
 
 
 ### Deployment to Github Pages
