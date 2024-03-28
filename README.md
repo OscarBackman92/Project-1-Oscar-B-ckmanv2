@@ -1,5 +1,5 @@
 # The Waffle Truck
-
+![mock up](assets/readme_images/mock-up-readme.png)
 Welcome to The Waffle Truck, your ultimate destination for delicious waffles in Stockholm, Jakobsberg!
 
 ## Table of Contents
