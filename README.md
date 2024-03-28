@@ -11,10 +11,6 @@ Welcome to The Waffle Truck, your ultimate destination for delicious waffles in 
     - [Hero Image and Headings](#hero-image-and-headings)
     - [Lower Navigation](#lower-navigation)
     - [Footer](#footer)
-    - [Image Gallery](#image-gallery)
-    - [Info Video](#info-video)
-  - [Future Features](#future-features)
-    - [Image Carousel](#image-carousel)
 - [Testing](#testing)
   - [Functionality and Usability Testing](#functionality-and-usability-testing)
   - [Focus Group Testing](#focus-group-testing)
@@ -87,7 +83,7 @@ The live link can be found here - https://oscarbackman92.github.io/Project-1-Osc
 ## Credits
 My Wife Josefine for the contents in About us and items in our-menu.
 Daisy_mentor for tips and tricks
-[Gareth Mc](https://github.com/Gareth-McGirr/tacos-travels) for readme inspo
+[Gareth Mc](https://github.com/Gareth-McGirr/tacos-travels) for readme insporation
 
 ### Content
 - Text content was written by [Oscar Bäckman and Josefine Bäckman].
