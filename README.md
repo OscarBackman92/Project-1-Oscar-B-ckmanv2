@@ -83,6 +83,15 @@ Tried the website on and Iphone 13 and Iphone 11 with no issues.
 
 [Wave Accessibility](https://wave.webaim.org/) tool was used in the later stages of development and for final testing of the deployed website to check for any aid accessibility testing.
 
+Testing was focused on accesibility everyone
+
+- All forms have associated labels or aria-labels so that this is read out on a screen reader to users who tab to form inputs
+- Color that enhance the elements on the website and instigates a hunger for waffels.
+- That all headings have apporopiate and meaningfull content
+- HTML page lang has been set
+- Aria labels been implemented correctly and appropriately
+- That there is an alt text to images on the website
+- WCAG 2.1 Coding best practices being followed
 
 ### Deployment to Github Pages
 
