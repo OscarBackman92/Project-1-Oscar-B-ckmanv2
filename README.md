@@ -48,7 +48,7 @@ At the bottom of each page, there is a lower navigation section providing contac
 
 #### Footer
 ![Socials bar](assets/readme_images/social-bar.png)
-The footer contains links to The Waffle Truck's social media profiles, allowing visitors to stay connected with us on everywhere.
+- The footer contains icons as links to all our social media websites, and will open in new tabs as you click on them. And for the visually impaired waffle fanatics using a screenreader the aria-labels will help with navigation.
 
 
 ## Testing
@@ -86,6 +86,7 @@ The live link can be found here - https://oscarbackman92.github.io/Project-1-Osc
 - My Wife Josefine for the contents in About us and items in our-menu.
 - Daisy_mentor for tips and tricks.
 - [Gareth Mc](https://github.com/Gareth-McGirr/tacos-travels) for readme inspiration.
+- CI for boilerplate and basic structure.
 
 
 ### Content
@@ -96,6 +97,7 @@ The live link can be found here - https://oscarbackman92.github.io/Project-1-Osc
 
 ### Code
 - HTML and CSS code were developed by [Oscar Bäckman] based on design requirements.
+- CI for Boilerplate and structure.
 
 ### Focus Group
 - Feedback and suggestions from focus group participants contributed to the refinement of the website design and features. None other than Oscar Bäckman and Josefine Bäckman and our craving for waffles.
