@@ -370,4 +370,7 @@ form > h2{
     #hero, #hero-menu, #hero-about {
         min-height: 900px;
     }
+    input[type="email"] {
+        width: 20%;
+    }  
 }
