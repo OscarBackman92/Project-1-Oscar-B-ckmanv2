@@ -346,7 +346,7 @@ form > h2{
         justify-content: space-around;
         align-items: start;
     }
-    #hero, #hero-menu, {
+    #hero, #hero-menu {
         min-height: 900px;
     }
     #hero-about {
