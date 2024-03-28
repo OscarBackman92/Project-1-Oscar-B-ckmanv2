@@ -75,6 +75,11 @@ H2 hidden else where.
 
 ## Deployment
 The website is deployed using Github, ensuring accessibility to users worldwide.
+The site was deployed to GitHub pages. The steps to deploy are as follows:
+In the GitHub repository, navigate to the Settings tab
+From the menu on left select 'Pages'
+From the source section drop-down menu, select the Branch: main
+Click 'Save'
 
 
 ## Credits
@@ -83,7 +88,7 @@ My Wife Josefine for the contents in About us and items in our-menu.
 - Text content was written by [Oscar Bäckman and Josefine Bäckman].
 
 ### Media
-- Images and videos were sourced from [Image Source](https://www.theperfectloaf.com/my-best-sourdough-waffles/)].
+- Images and videos were sourced from [Image Source](https://www.theperfectloaf.com/my-best-sourdough-waffles/).
 
 ### Code
 - HTML and CSS code were developed by [Oscar Bäckman] based on design requirements.
