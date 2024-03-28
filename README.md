@@ -2,25 +2,6 @@
 ![mock up](assets/readme_images/mock-up-readme.png)
 Welcome to The Waffle Truck, your ultimate destination for delicious waffles in Stockholm, Jakobsberg!
 
-## Table of Contents
-- [Introduction](#introduction)
-- [Features](#features)
-  - [Existing Features](#existing-features)
-    - [Navigation Bar](#navigation-bar)
-    - [Landing Page](#landing-page)
-    - [Hero Image and Headings](#hero-image-and-headings)
-    - [Lower Navigation](#lower-navigation)
-    - [Footer](#footer)
-- [Testing](#testing)
-  - [Validator Testing](#validator-testing)
-  - [Unfixed Bugs](#unfixed-bugs)
-- [Deployment](#deployment)
-- [Credits](#credits)
-  - [Content](#content)
-  - [Media](#media)
-  - [Code](#code)
-  - [Focus Group](#focus-group)
-
 ## Introduction
 The Waffle Truck is a food truck based in Stockholm, Jakobsberg, specializing in serving delicious waffles for breakfast and brunch.
 
