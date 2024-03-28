@@ -86,6 +86,9 @@ The live link can be found here - https://oscarbackman92.github.io/Project-1-Osc
 
 ## Credits
 My Wife Josefine for the contents in About us and items in our-menu.
+Daisy_mentor for tips and tricks
+[Gareth Mc](https://github.com/Gareth-McGirr/tacos-travels) for readme inspo
+
 ### Content
 - Text content was written by [Oscar Bäckman and Josefine Bäckman].
 
