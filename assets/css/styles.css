@@ -221,7 +221,8 @@ form > h2{
     color: darkslategray;
 }
 
-/* Media query for tablet and lager screens (768px and up) */
+/* Media query for tablet and larger screens (768px and up) */
+
 @media screen and (min-width: 768px) {
     /* Header */
     nav {
