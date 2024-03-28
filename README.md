@@ -32,7 +32,7 @@ The Waffle Truck is a food truck based in Stockholm, Jakobsberg, specializing in
 
 #### Navigation Bar
 ![navbar mobile](assets/readme_images/navbar-mobile.png) ![navbar](assets/readme_images/navbar-larger-screen.png)
-The navigation bar provides easy access to different sections of the website, including the home page, our menu, and about us page.
+The navigation bar provides easy access to different sections of the website, including the home page, our menu, and about us page. Value it provides is accessobility on all screensizes.
 
 #### Landing Page
 The landing page features a captivating hero image and headings that introduce The Waffle Truck and its offerings.
@@ -54,7 +54,32 @@ The hero section showcases an enticing image related to waffles along with descr
 
 
 ## Testing
-Testing have been continous throuhg out the develpoment ensuring that there are no un explanible bugs or misshaps.
+
+### Responsiveness
+
+All pages have been tested to ensure responsiveness on screen from 320px to 1920px
+
+Steps i went through for testing
+
+1. Open browser and head over to https://oscarbackman92.github.io/Project-1-Oscar-B-ckmanv2/
+2. Open Google devtools (right click inspect)
+3. Set dimensions to responsive and width to 320px
+4. Zoom 50%
+5. Click and drag window edges to max width
+
+Expected outcome:
+
+The site is responsive on all screensizes. Hero image not being pixelated/blurry
+Some horizontal is present and that's the idea.
+
+Result:
+
+As expected. The website is responsive to screensizes and images is working and elements is not compromized.
+
+Tried the website on and Iphone 13 and Iphone 11 with no issues.
+
+
+###
 
 ### Functionality and Usability Testing
 Extensive testing was conducted to ensure that all features are functional and user-friendly across different devices and browsers.
