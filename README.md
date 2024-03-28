@@ -12,8 +12,6 @@ Welcome to The Waffle Truck, your ultimate destination for delicious waffles in 
     - [Lower Navigation](#lower-navigation)
     - [Footer](#footer)
 - [Testing](#testing)
-  - [Functionality and Usability Testing](#functionality-and-usability-testing)
-  - [Focus Group Testing](#focus-group-testing)
   - [Validator Testing](#validator-testing)
   - [Unfixed Bugs](#unfixed-bugs)
 - [Deployment](#deployment)
