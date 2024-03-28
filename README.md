@@ -73,14 +73,16 @@ Any identified bugs were documented for future resolution and improvement of the
 About-us H2 on mobile is visable under the navbar, i cannot figure out margins for it.
 H2 hidden else where.
 
-### Deployment to Github
+### Deployment to Github Pages
 
--The website is deployed using Github, ensuring accessibility to users worldwide. As follows.
-  -In the GitHub repository, navigate to the Settings tab
-  -From the menu on left select 'Pages'
-  -From the source section drop-down menu, select the Branch: main
-  -Click 'Save'
+- The site was deployed to GitHub pages. The steps to deploy are as follows: 
+  - In the GitHub repository, navigate to the Settings tab 
+  - From the menu on left select 'Pages'
+  - From the source section drop-down menu, select the Branch: main
+  - Click 'Save'
+  - A live link will be displayed in a green banner when published successfully. 
 
+The live link can be found here - https://oscarbackman92.github.io/Project-1-Oscar-B-ckmanv2
 
 ## Credits
 My Wife Josefine for the contents in About us and items in our-menu.
