@@ -44,7 +44,8 @@ The hero section showcases an enticing image related to waffles along with descr
 #### Lower Navigation
 ![lower nav](assets/readme_images/lower-nav.png)
 
-At the bottom of each page, there is a lower navigation section providing contact information, opening hours, and a newsletter subscription form, and updates on today's truck location.
+* At the bottom of each page, there is a lower navigation section providing contact information, opening hours, and a newsletter subscription form, and updates on today's truck location. 
+
 
 #### Footer
 ![Socials bar](assets/readme_images/social-bar.png)
