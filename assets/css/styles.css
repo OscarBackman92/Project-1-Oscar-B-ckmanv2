@@ -351,7 +351,7 @@ form > h2{
     }
     .our-menu {
         display: flex;
-        justify-content: space-between;
+        justify-content: space-around;
         align-items: start;
     }
     #breakfast, #brunch {
