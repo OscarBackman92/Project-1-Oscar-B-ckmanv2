@@ -47,11 +47,13 @@ The hero section showcases an enticing image related to waffles along with descr
 At the bottom of each page, there is a lower navigation section providing contact information, opening hours, and a newsletter subscription form.
 
 #### Footer
-The footer contains links to The Waffle Truck's social media profiles, allowing visitors to stay connected.
 ![Socials bar](assets/readme_images/social-bar.png)
+The footer contains links to The Waffle Truck's social media profiles, allowing visitors to stay connected. With us on all our different social platforms.
+
 
 ## Testing
 Testing have been continous throuhg out the develpoment ensuring that there are no un explanible bugs or misshaps.
+
 ### Functionality and Usability Testing
 Extensive testing was conducted to ensure that all features are functional and user-friendly across different devices and browsers.
 
@@ -80,9 +82,9 @@ H2 hidden else where.
 The live link can be found here - https://oscarbackman92.github.io/Project-1-Oscar-B-ckmanv2
 
 ## Credits
-My Wife Josefine for the contents in About us and items in our-menu.
-Daisy_mentor for tips and tricks
-[Gareth Mc](https://github.com/Gareth-McGirr/tacos-travels) for readme insporation
+-My Wife Josefine for the contents in About us and items in our-menu.
+-Daisy_mentor for tips and tricks.
+-[Gareth Mc](https://github.com/Gareth-McGirr/tacos-travels) for readme insporation
 
 ### Content
 - Text content was written by [Oscar Bäckman and Josefine Bäckman].
