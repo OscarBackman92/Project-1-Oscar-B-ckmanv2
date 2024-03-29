@@ -10,7 +10,11 @@ The Waffle Truck is a food truck based in Stockholm, Jakobsberg, specializing in
 ### Existing Features
 
 #### Navigation Bar
-![navbar mobile](assets/readme_images/navbar-mobile.png) ![navbar](assets/readme_images/navbar-larger-screen.png)
+For mobilephone
+![navbar mobile](assets/readme_images/navbar-mobile.png)
+
+For tablets, laptops and desktops
+![navbar](assets/readme_images/navbar-larger-screen.png)
 The navigation bar provides easy access to different sections of the website, including the home page, our menu, and about us page. Value it provides is accessobility on all screensizes.
 
 #### Landing Page
