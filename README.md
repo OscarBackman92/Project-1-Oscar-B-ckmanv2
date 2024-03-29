@@ -26,7 +26,7 @@ The landing page features a captivating hero image and headings that introduce T
 ![Hero Image](assets/readme_images/theperfectloaf_my_best_sourdough_waffles-7-1080x720.jpg)
 The hero section showcases an enticing image related to waffles along with descriptive headings to attract visitors.
 
-#### Contact and Subscribe form
+#### Lower Navigation and location with newletter form
 
 ![lower nav](assets/readme_images/lower-nav-phone.png)
 
