@@ -7,7 +7,12 @@ The Waffle Truck is a food truck based in Stockholm, Jakobsberg, specializing in
 
 ## Features
 
-### Existing Features
+#### Favicon
+* A favicon has been implemented with the company logo and can be seen in the nav for each page
+* This will allow the users to identify the website when they have multiple websites open
+
+![favicon](assets/readme_images/favicon-tab.png)
+
 
 #### Navigation Bar
 For mobilephone
@@ -117,6 +122,7 @@ The following git commands were used throughout development to push code to the 
 ```git push``` - This command was used to push all committed code to the remote repository on github.
 
 ### Validator
+
 ![index.html-validation](assets/readme_images/index-validation.png)
 
 ![our-menu.html-validation](assets/readme_images/ourmenu-validation.png)
