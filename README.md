@@ -49,8 +49,8 @@ The hero section showcases an enticing image related to waffles along with descr
     * The structure of the Website was developed using HTML as the main language.
 * CSS
     * The Website was styled using custom CSS in an external file.
-* Visual Studio Code
-    * The website was developed using Visual Studio Code IDE
+* Gitpod
+    * The site was developed with Gitpod IDE
 * GitHub
     * Source code is hosted on GitHub and delpoyed using Git Pages.
 * Git 
