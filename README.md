@@ -94,20 +94,19 @@ As expected. The website is responsive to screen sizes and images is working and
 
 Tried the website on and Iphone 13 and Iphone 11 with no issues.
 
-
 ### Accessibility
 
 [Wave Accessibility](https://wave.webaim.org/) tool was used in the later stages of development and for final testing of the deployed website to check for any aid accessibility testing.
 
 Testing was focused on accessibility everyone
 
-- All forms have associated labels or aria-labels so that this is read out on a screen reader to users who tab to form inputs
-- Color that enhance the elements on the website and instigates a hunger for waffles.
-- That all headings have appropriate and meaningful content
-- HTML page lang has been set
-- Aria labels been implemented correctly and appropriately
-- That there is an alt text to images on the website
-- WCAG 2.1 Coding best practices being followed
+* All forms have associated labels or aria-labels so that this is read out on a screen reader to users who tab to form inputs
+* Color that enhance the elements on the website and instigates a hunger for waffles.
+* That all headings have appropriate and meaningful content
+* HTML page lang has been set
+* Aria labels been implemented correctly and appropriately
+* That there is an alt text to images on the website
+* WCAG 2.1 Coding best practices being followed
 
 ### Lighthouse Testing
 
@@ -139,12 +138,12 @@ The following git commands were used throughout development to push code to the 
 
 ### Deployment to Github Pages
 
-- The site was deployed to GitHub pages. The steps to deploy are as follows: 
-  - In the GitHub repository, navigate to the Settings tab 
-  - From the menu on left select 'Pages'
-  - From the source section drop-down menu, select the Branch: main
-  - Click 'Save'
-  - A live link will be displayed in a green banner when published successfully. 
+* The site was deployed to GitHub pages. The steps to deploy are as follows: 
+  * In the GitHub repository, navigate to the Settings tab 
+  * From the menu on left select 'Pages'
+  * From the source section drop-down menu, select the Branch: main
+  * Click 'Save'
+  * A live link will be displayed in a green banner when published successfully. 
 
 The live link can be found here - https://oscarbackman92.github.io/Project-1-Oscar-B-ckmanv2
 
@@ -152,11 +151,11 @@ The live link can be found here - https://oscarbackman92.github.io/Project-1-Osc
 
 Navigate to the GitHub Repository you want to clone to use locally:
 
-- Click on the code drop down button
-- Click on HTTPS
-- Copy the repository link to the clipboard
-- Open your IDE of choice (git must be installed for the next steps)
-- Type git clone copied-git-url into the IDE terminal
+* Click on the code drop down button
+* Click on HTTPS
+* Copy the repository link to the clipboard
+* Open your IDE of choice (git must be installed for the next steps)
+* Type git clone copied-git-url into the IDE terminal
 
 The project will now of been cloned on your local machine for use.
 
