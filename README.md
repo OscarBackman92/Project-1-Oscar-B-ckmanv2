@@ -41,7 +41,7 @@ The hero section showcases an enticing image related to waffles along with descr
 #### Footer
 ![Socials bar](assets/readme_images/social-bar.png)
 
-- The footer contains icons as links to all our social media websites, and will open in new tabs as you click on them. And for the visually impaired waffle fanatics using a screenreader the aria-labels will help with navigation.
+- The footer contains icons as links to all our social media websites, and will open in new tabs as you click on them. And for the visually impaired waffle fanatics using a screenreader the aria-labels will help with navigation of the site
 
 ## Technologies
 
