@@ -26,8 +26,13 @@ The landing page features a captivating hero image and headings that introduce T
 ![Hero Image](assets/readme_images/theperfectloaf_my_best_sourdough_waffles-7-1080x720.jpg)
 The hero section showcases an enticing image related to waffles along with descriptive headings to attract visitors.
 
-#### Lower Navigation
-![lower nav](assets/readme_images/lower-nav.png)
+#### Contact and Subscribe form
+
+![lower nav](assets/readme_images/lower-nav-phone.png)
+
+![lower nav-tablet](assets/readme_images/lower-nav-tablet.png)
+
+![Lower nav laptop and desktop](assets/readme_images/lower-nav-laptop-desktop.png)
 
 * At the bottom of each page, there is a lower navigation section providing contact information, opening hours, and a newsletter subscription form, and updates on today's truck location. All with Aria-labels for screenreaders.
 
