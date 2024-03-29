@@ -145,11 +145,19 @@ The following git commands were used throughout development to push code to the 
 
 ### Validator
 
+* HTML
+  * No errors were returned when passing through the official [W3C validator](https://validator.w3.org)
+
 ![index.html-validation](assets/readme_images/index_validation.png)
 
-![our-menu.html-validation](assets/readme_images/ourmenu_validation.png)
+![our_menu.html-validation](assets/readme_images/ourmenu_validation.png)
 
-![about-us.html-validation](assets/readme_images/aboutus_validation.png)
+![about_us.html-validation](assets/readme_images/aboutus_validation.png)
+
+![thank_you](assets/readme_images/thank_you_validation.png)
+
+* CSS
+  * No errors were found when passing through the official [(Jigsaw) validator](https://jigsaw.w3.org)
 
 ![css-validation](assets/readme_images/css_validation.png)
 
