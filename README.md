@@ -45,10 +45,11 @@ For tablets, laptops and desktops
 
 
 #### Footer
-![Socials bar](assets/readme_images/social_bar.png)
 
 * Contains icons linked to social media websites.
 * Encourages social media engagement and interaction, extending the reach of the business. Aria-labels assist visually impaired users in navigating the site effectively, promoting inclusivity and accessibility.
+
+![Socials bar](assets/readme_images/social_bar.png)
 
 ## Technologies
 
