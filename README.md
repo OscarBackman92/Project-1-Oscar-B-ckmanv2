@@ -107,7 +107,7 @@ Testing was focused on accessibility everyone
 
 ### Lighthouse Testing
 
-![lighthouse](assets/readme_images/lighthouse-test.png)
+![lighthouse](assets/readme_images/lighthouse_test.png)
 
 ### Version Control
 
@@ -123,13 +123,13 @@ The following git commands were used throughout development to push code to the 
 
 ### Validator
 
-![index.html-validation](assets/readme_images/index-validation.png)
+![index.html-validation](assets/readme_images/index_validation.png)
 
-![our-menu.html-validation](assets/readme_images/ourmenu-validation.png)
+![our-menu.html-validation](assets/readme_images/ourmenu_validation.png)
 
-![about-us.html-validation](assets/readme_images/aboutus-validation.png)
+![about-us.html-validation](assets/readme_images/aboutus_validation.png)
 
-![css-validation](assets/readme_images/css-validation.png)
+![css-validation](assets/readme_images/css_validation.png)
 
 ## Deployment
 
