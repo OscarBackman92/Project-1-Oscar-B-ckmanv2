@@ -203,6 +203,12 @@ input[type="submit"] {
     font-weight: bolder;
 }
 
+/* Thank you page */
+
+.thank-you {
+    margin-top: 47px;
+    background-color: rgba(185, 223, 248, 0.800);
+}
 form > h2{
     font-size: 120%;
 }
