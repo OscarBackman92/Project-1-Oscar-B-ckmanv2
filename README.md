@@ -90,7 +90,13 @@ The following git commands were used throughout development to push code to the 
 ```git push``` - This command was used to push all committed code to the remote repository on github.
 
 ### Validator
+![index.html-validation](assets/readme_images/index-validation.png)
 
+![our-menu.html-validation](assets/readme_images/ourmenu-validation.png)
+
+![about-us.html-validation](assets/readme_images/aboutus-validation.png)
+
+![css-validation](assets/readme_images/css-validation.png)
 
 ### Deployment to Github Pages
 
