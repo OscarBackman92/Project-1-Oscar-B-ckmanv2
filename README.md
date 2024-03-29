@@ -26,20 +26,22 @@ For tablets, laptops and desktops
 * Provides easy access to different sections of the website, enhancing user navigation and experience across various devices.
 
 #### Hero Image and Headings
+
+* Showcases an enticing image related to waffles along with descriptive headings.
+* Engages visitors visually and informatively, setting the tone for their experience on the website and encouraging further exploration.
+
 ![Hero Image](assets/readme_images/theperfectloaf_my_best_sourdough_waffles-7-1080x720.jpg)
-* The hero section showcases an enticing image related to waffles along with descriptive headings to attract visitors.
-* So that the user is sure what this website is about WAFFLES!
 
 #### Lower Navigation and location with Newsletter form
+
+* Includes a lower navigation section with contact information, opening hours, newsletter subscription form, and updates on today's truck location.
+* Offers essential information and engagement opportunities, enhancing user experience and facilitating easy communication with the business. Integration of Aria-labels ensures accessibility for all users, including those using screen readers.
 
 ![lower nav](assets/readme_images/lower_nav_phone.png)
 
 ![lower nav-tablet](assets/readme_images/lower_nav_tablet.png)
 
 ![Lower nav laptop and desktop](assets/readme_images/lower_nav_laptop_desktop.png)
-
-* Includes a lower navigation section with contact information, opening hours, newsletter subscription form, and updates on today's truck location.
-* Offers essential information and engagement opportunities, enhancing user experience and facilitating easy communication with the business. Integration of Aria-labels ensures accessibility for all users, including those using screen readers.
 
 
 #### Footer
