@@ -11,17 +11,18 @@ The Waffle Truck is a food truck based in Stockholm, Jakobsberg, specializing in
 * A favicon has been implemented with the company logo and can be seen in the nav for each page
 * This will allow the users to identify the website when they have multiple websites open
 
-![favicon](assets/readme_images/favicon-tab.png)
+![favicon](assets/readme_images/favicon_tab.png)
 
 
 #### Navigation Bar
+
 For mobile phone
 
-![navbar mobile](assets/readme_images/navbar-mobile.png)
+![navbar mobile](assets/readme_images/navbar_mobile.png)
 
 For tablets, laptops and desktops
 
-![navbar](assets/readme_images/navbar-larger-screen.png)
+![navbar](assets/readme_images/navbar_larger_screen.png)
 The navigation bar provides easy access to different sections of the website, including the home page, our menu, and about us page. Value it provides is accessibility on all screen sizes.
 
 #### Landing Page
@@ -33,18 +34,18 @@ The hero section showcases an enticing image related to waffles along with descr
 
 #### Lower Navigation and location with newsletter form
 
-![lower nav](assets/readme_images/lower-nav-phone.png)
+![lower nav](assets/readme_images/lower_nav_phone.png)
 
-![lower nav-tablet](assets/readme_images/lower-nav-tablet.png)
+![lower nav-tablet](assets/readme_images/lower_nav_tablet.png)
 
-![Lower nav laptop and desktop](assets/readme_images/lower-nav-laptop-desktop.png)
+![Lower nav laptop and desktop](assets/readme_images/lower_nav_laptop_desktop.png)
 
 * At the bottom of each page, there is a lower navigation section providing contact information, opening hours, and a newsletter subscription form, and updates on today's truck location. All with Aria-labels for screen readers.
     Also on phones and tablets there is a tel function for calls and an mailto function that opens up you preferred mail service creating a new mail. Works on phones, tablets, laptops and desktops.
 
 
 #### Footer
-![Socials bar](assets/readme_images/social-bar.png)
+![Socials bar](assets/readme_images/social_bar.png)
 
 - The footer contains icons as links to all our social media websites, and will open in new tabs as you click on them. And for the visually impaired waffle fanatics using a screen reader the aria-labels will help with navigation of the site
 
