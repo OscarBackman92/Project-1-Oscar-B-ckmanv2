@@ -46,7 +46,7 @@ The hero section showcases an enticing image related to waffles along with descr
 * Font Awesome
     * Icons obtained from https://fontawesome.com/ were used as the Social media links in the footer section. 
 * Favicon.io
-    * favicon files were created at https://favicon.io/favicon-converter/ 
+    * favicon files were created at https://favicon.io/logo-generator/
 
 ## Testing
 
