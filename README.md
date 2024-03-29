@@ -45,7 +45,8 @@ For tablets, laptops and desktops
 #### Footer
 ![Socials bar](assets/readme_images/social_bar.png)
 
-- The footer contains icons as links to all our social media websites, and will open in new tabs as you click on them. And for the visually impaired waffle fanatics using a screen reader the aria-labels will help with navigation of the site
+* Contains icons linked to social media websites.
+* Encourages social media engagement and interaction, extending the reach of the business. Aria-labels assist visually impaired users in navigating the site effectively, promoting inclusivity and accessibility.
 
 ## Technologies
 
