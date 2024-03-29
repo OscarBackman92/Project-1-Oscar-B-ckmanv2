@@ -52,6 +52,17 @@ For tablets, laptops and desktops
 
 ![Socials bar](assets/readme_images/social_bar.png)
 
+#### About Us Page
+
+* Website information on 'About Us'
+    * An introduction to me and my Wife
+    * Waffle History
+    * Our Mission for waffles
+    * And our contact.
+    * This get's the user an inside look on our history and passion for waffles. And that may be the reason to visit us.
+    
+![about](assets/readme_images/about_us.png)
+
 ## Technologies
 
 * HTML
