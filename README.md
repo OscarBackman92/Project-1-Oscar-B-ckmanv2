@@ -22,14 +22,13 @@ For mobile phone
 For tablets, laptops and desktops
 
 ![navbar](assets/readme_images/navbar_larger_screen.png)
-The navigation bar provides easy access to different sections of the website, including the home page, our menu, and about us page. Value it provides is accessibility on all screen sizes.
-
-#### Landing Page
-The landing page features a captivating hero image and headings that introduce The Waffle Truck and its offerings.
+* Consists of a navigation bar for both mobile phones and larger screens. 
+* Provides easy access to different sections of the website, enhancing user navigation and experience across various devices.
 
 #### Hero Image and Headings
 ![Hero Image](assets/readme_images/theperfectloaf_my_best_sourdough_waffles-7-1080x720.jpg)
-The hero section showcases an enticing image related to waffles along with descriptive headings to attract visitors.
+* The hero section showcases an enticing image related to waffles along with descriptive headings to attract visitors.
+* So that the user is sure what this website is about WAFFLES!
 
 #### Lower Navigation and location with newsletter form
 
