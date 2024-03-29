@@ -372,6 +372,7 @@ form > h2{
     .thank-you {
         margin-left: 150x;
         margin-right: 150px;
+        font-size: x-large;
     }  
 }
 /* media query 1920px and up */
@@ -398,6 +399,7 @@ form > h2{
     .thank-you {
         margin-left: 200px;
         margin-right: 200px;
+        font-size: x-large;
     }  
 }
 @media screen and (min-width: 1921px) {
