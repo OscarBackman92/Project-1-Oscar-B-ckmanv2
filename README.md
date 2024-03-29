@@ -89,6 +89,9 @@ The following git commands were used throughout development to push code to the 
 
 ```git push``` - This command was used to push all committed code to the remote repository on github.
 
+### Validator
+
+
 ### Deployment to Github Pages
 
 - The site was deployed to GitHub pages. The steps to deploy are as follows: 
