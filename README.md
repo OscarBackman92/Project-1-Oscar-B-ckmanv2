@@ -162,7 +162,7 @@ The project will now of been cloned on your local machine for use.
 - Text content was written by [Oscar Bäckman and Josefine Bäckman].
 
 ### Media
-- Images and videos were sourced from ![Image Source](https://www.theperfectloaf.com/my-best-sourdough-waffles/).
+- Images and videos were sourced from [Image Source](https://www.theperfectloaf.com/my-best-sourdough-waffles/).
 
 ### Code
 - HTML and CSS code were developed by [Oscar Bäckman] based on design requirements.
