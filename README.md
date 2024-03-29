@@ -103,7 +103,6 @@ Testing was focused on accesibility everyone
 ### Lighthouse Testing
 
 ![lighthouse](assets/readme_images/lighthouse-test.png)
-## Deployment
 
 ### Version Control
 
@@ -125,6 +124,8 @@ The following git commands were used throughout development to push code to the 
 ![about-us.html-validation](assets/readme_images/aboutus-validation.png)
 
 ![css-validation](assets/readme_images/css-validation.png)
+
+## Deployment
 
 ### Deployment to Github Pages
 
