@@ -30,7 +30,7 @@ For tablets, laptops and desktops
 * The hero section showcases an enticing image related to waffles along with descriptive headings to attract visitors.
 * So that the user is sure what this website is about WAFFLES!
 
-#### Lower Navigation and location with newsletter form
+#### Lower Navigation and location with Newsletter form
 
 ![lower nav](assets/readme_images/lower_nav_phone.png)
 
@@ -38,8 +38,8 @@ For tablets, laptops and desktops
 
 ![Lower nav laptop and desktop](assets/readme_images/lower_nav_laptop_desktop.png)
 
-* At the bottom of each page, there is a lower navigation section providing contact information, opening hours, and a newsletter subscription form, and updates on today's truck location. All with Aria-labels for screen readers.
-    Also on phones and tablets there is a tel function for calls and an mailto function that opens up you preferred mail service creating a new mail. Works on phones, tablets, laptops and desktops.
+* Includes a lower navigation section with contact information, opening hours, newsletter subscription form, and updates on today's truck location.
+* Offers essential information and engagement opportunities, enhancing user experience and facilitating easy communication with the business. Integration of Aria-labels ensures accessibility for all users, including those using screen readers.
 
 
 #### Footer
