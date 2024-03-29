@@ -15,14 +15,14 @@ The Waffle Truck is a food truck based in Stockholm, Jakobsberg, specializing in
 
 
 #### Navigation Bar
-For mobilephone
+For mobile phone
 
 ![navbar mobile](assets/readme_images/navbar-mobile.png)
 
 For tablets, laptops and desktops
 
 ![navbar](assets/readme_images/navbar-larger-screen.png)
-The navigation bar provides easy access to different sections of the website, including the home page, our menu, and about us page. Value it provides is accessobility on all screensizes.
+The navigation bar provides easy access to different sections of the website, including the home page, our menu, and about us page. Value it provides is accessibility on all screen sizes.
 
 #### Landing Page
 The landing page features a captivating hero image and headings that introduce The Waffle Truck and its offerings.
@@ -31,7 +31,7 @@ The landing page features a captivating hero image and headings that introduce T
 ![Hero Image](assets/readme_images/theperfectloaf_my_best_sourdough_waffles-7-1080x720.jpg)
 The hero section showcases an enticing image related to waffles along with descriptive headings to attract visitors.
 
-#### Lower Navigation and location with newletter form
+#### Lower Navigation and location with newsletter form
 
 ![lower nav](assets/readme_images/lower-nav-phone.png)
 
@@ -39,14 +39,14 @@ The hero section showcases an enticing image related to waffles along with descr
 
 ![Lower nav laptop and desktop](assets/readme_images/lower-nav-laptop-desktop.png)
 
-* At the bottom of each page, there is a lower navigation section providing contact information, opening hours, and a newsletter subscription form, and updates on today's truck location. All with Aria-labels for screenreaders.
-    Also on phones and tablets there is a tel function for calls and an mailto function that opens up you preferred mailservice creating a new mail. Works on phones, tablets, latops and desktops.
+* At the bottom of each page, there is a lower navigation section providing contact information, opening hours, and a newsletter subscription form, and updates on today's truck location. All with Aria-labels for screen readers.
+    Also on phones and tablets there is a tel function for calls and an mailto function that opens up you preferred mail service creating a new mail. Works on phones, tablets, laptops and desktops.
 
 
 #### Footer
 ![Socials bar](assets/readme_images/social-bar.png)
 
-- The footer contains icons as links to all our social media websites, and will open in new tabs as you click on them. And for the visually impaired waffle fanatics using a screenreader the aria-labels will help with navigation of the site
+- The footer contains icons as links to all our social media websites, and will open in new tabs as you click on them. And for the visually impaired waffle fanatics using a screen reader the aria-labels will help with navigation of the site
 
 ## Technologies
 
@@ -57,7 +57,7 @@ The hero section showcases an enticing image related to waffles along with descr
 * Gitpod
     * The site was developed with Gitpod IDE
 * GitHub
-    * Source code is hosted on GitHub and delpoyed using Git Pages.
+    * Source code is hosted on GitHub and deployed using Git Pages.
 * Git 
     * Used to commit and push code during the development opf the Website
 * Font Awesome
@@ -81,25 +81,25 @@ Steps i went through for testing
 
 Expected outcome:
 
-The site is responsive on all screensizes. Hero image not being pixelated/blurry
+The site is responsive on all screen sizes. Hero image not being pixelated/blurry
 Some horizontal is present and that's the idea.
 
 Result:
 
-As expected. The website is responsive to screensizes and images is working and elements is not compromized.
+As expected. The website is responsive to screen sizes and images is working and elements is not compromised.
 
 Tried the website on and Iphone 13 and Iphone 11 with no issues.
 
 
-### Accesibility
+### Accessibility
 
 [Wave Accessibility](https://wave.webaim.org/) tool was used in the later stages of development and for final testing of the deployed website to check for any aid accessibility testing.
 
-Testing was focused on accesibility everyone
+Testing was focused on accessibility everyone
 
 - All forms have associated labels or aria-labels so that this is read out on a screen reader to users who tab to form inputs
-- Color that enhance the elements on the website and instigates a hunger for waffels.
-- That all headings have apporopiate and meaningfull content
+- Color that enhance the elements on the website and instigates a hunger for waffles.
+- That all headings have appropriate and meaningful content
 - HTML page lang has been set
 - Aria labels been implemented correctly and appropriately
 - That there is an alt text to images on the website
