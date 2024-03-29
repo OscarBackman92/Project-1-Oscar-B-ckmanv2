@@ -153,6 +153,17 @@ The following git commands were used throughout development to push code to the 
 
 ![css-validation](assets/readme_images/css_validation.png)
 
+### Functional Testing
+
+| Test                                          | Steps                                    | Expected                    | Actual |
+| --------------------------------------------- | ---------------------------------------- | --------------------------- | ------ |
+| Nav links to correct pages                    | Press home/Our Menu/Aboutus              | Opens correct page          | Pass   |
+| Nav links have underline on phone and tablet  | Click on link for each page              | Under line on everypage     | Pass   |
+| Phone number link calls out, Phone and Tablet | Press the phonenumber on phone or tablet | Calls out                   | Pass   |
+| Email Link on phone and Tablet                | Press email link on phone or tablet      | Opens Email provider        | Pass   |
+| Newsletter subscription                       | Input correct email and hit Subscribe    | Takes you to Thank you page | Pass   |
+| Social Media links                            | Press icons for Socialmedia platforms    | Opens new tab for each link | Pass   |
+
 ## Deployment
 
 ### Deployment to Github Pages
