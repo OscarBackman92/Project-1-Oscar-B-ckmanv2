@@ -6,15 +6,15 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <!-- Meta tags for search engines -->
-    <meta name="description" content="Love Food, Stockholm, Jakobsberg, Breakfast, Foodtruck">
-    <meta name="keywords" content="love food, food, stockholm, jakobsberg, breakfast, foodtruck">
+    <meta name="description" content="Learn about The Waffle Truck — our story, passion for waffles, and mission to bring great breakfast to Jakobsberg, Stockholm.">
+    <meta name="keywords" content="about us, waffle truck, jakobsberg, stockholm, food truck story">
     <!-- Title -->
-    <title>The Waffle Truck</title>
+    <title>The Waffle Truck | About Us</title>
     <!-- Favicon -->
     <link rel="apple-touch-icon" sizes="180x180" href="assets/favicon/logo.png">
     <link rel="icon" type="image/png" sizes="32x32" href="assets/favicon/logo.png">
     <link rel="icon" type="image/png" sizes="16x16" href="assets/favicon/logo.png">
-    <!-- Stylessheet -->
+    <!-- Stylesheet -->
     <link rel="stylesheet" href="assets/css/styles.css">
 </head>
 
@@ -26,7 +26,7 @@
             <h1 id="logo">The Waffle Truck</h1>
         </a>
         <input type="checkbox" id="nav-toggle" name="nav-toggle">
-        <label for="nav-toggle" class="nav-toggle-label" aria-label="navigation-bar">
+        <label for="nav-toggle" class="nav-toggle-label" aria-label="Toggle navigation menu">
             <i class="fa-solid fa-square-caret-down"></i></label>
         <nav>
             <ul id="menu">
@@ -73,7 +73,7 @@
                 <!-- Mission -->
                 <div class="mission">
                     <h3>Mission</h3>
-                    <P> The Waffle Truck is a breakfast and brunch truck that suits everyone thanks to
+                    <p>The Waffle Truck is a breakfast and brunch truck that suits everyone thanks to
                         our
                         wide menu with
                         well-composed combinations of fantastic ingredients and innovative flavor combinations. Our goal
@@ -83,12 +83,12 @@
                         treatment. Together with personal efforts we achieve the guests' expectations in the best way.
 
                         Welcome!
-                    </P>
+                    </p>
                 </div>
                 <div class="contact">
                     <h3>Contact</h3>
-                    <P>Are you missing The Waffle truck in your area? Do not hesitate to email us at
-                        info@thewaffle.se.
+                    <p>Are you missing The Waffle truck in your area? Do not hesitate to email us at
+                        <a href="mailto:info@thewaffle.se">info@thewaffle.se</a>.
                         And don't forget to sign up for the newsletter so you know where we stand on the day you're
                         craving
                         a good waffle!
@@ -98,22 +98,23 @@
         </section>
         <!-- Location, contact -->
         <div id="contact">
-            <h4 aria-label="Address"><i class="fa-solid fa-envelope"></i> Box 1000, 177 41 Järfälla</h4>
-            <h4 aria-label="Phone Number"><i class="fa-solid fa-phone"></i><a href="tel:+46760000000"> +46 76 000 0000</a></h4>
-            <h4 aria-label="Email Address"><i class="fa-solid fa-at"></i> <a href="mailto:info@thewaffle.se">Info@thewaffle.se</a></h4>    
+            <h4><i class="fa-solid fa-location-dot" aria-hidden="true"></i><span class="visually-hidden">Address: </span> Box 1000, 177 41 Järfälla</h4>
+            <h4><i class="fa-solid fa-phone" aria-hidden="true"></i><span class="visually-hidden">Phone: </span><a href="tel:+46760000000"> +46 76 000 0000</a></h4>
+            <h4><i class="fa-solid fa-at" aria-hidden="true"></i><span class="visually-hidden">Email: </span> <a href="mailto:info@thewaffle.se">Info@thewaffle.se</a></h4>
         </div>
         <!-- Open hours -->
         <div id="open">
-            <h4 aria-label="Opening Hours">Opening hours</h4>
-            <h4 aria-label="Monday to Friday">Mon-Fri 07-14</h4>
-            <h4 aria-label="Saturday and Sunday">Sat-Sun 9-14</h4>            
+            <h4><span class="visually-hidden">Opening hours: </span>Opening hours</h4>
+            <h4>Mon-Fri 07-14</h4>
+            <h4>Sat-Sun 9-14</h4>
         </div>
 
         <!-- Newsletter -->
-        <form action="thank-you.html" id="newsletter">
+        <form action="thank-you.html" id="newsletter" method="get">
             <h2>Newsletter and location updates</h2>
-            <input type="email" name="email" aria-label="Enter email" placeholder="Email Address" required>
-            <input type="submit" value="Subscribe" aria-label="Subscribe to newletter">
+            <label for="email" class="visually-hidden">Email address</label>
+            <input type="email" id="email" name="email" placeholder="Email Address" required>
+            <input type="submit" value="Subscribe" aria-label="Subscribe to newsletter">
         </form>
     </main>
     <!-- Footer -->
@@ -143,8 +144,8 @@
         </ul>
     </footer>
 
-    <!-- Font awsome kit -->
-    <script src="https://kit.fontawesome.com/3b20d96fa9.js" crossorigin="anonymous"></script>
+    <!-- Font Awesome kit -->
+    <script src="https://kit.fontawesome.com/3b20d96fa9.js" crossorigin="anonymous" defer></script>
 </body>
 
 </html>

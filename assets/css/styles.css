@@ -89,7 +89,7 @@ nav {
 
 /* Main content */
 main {
-    flex: 1 auto;
+    flex: 1;
     /* Main element takes avalible space */
     background-color: rgba(253, 215, 92, 0.986);
     text-align: center;
@@ -131,9 +131,17 @@ main {
     font-size: 95%
 }
 
-/* Menu items */
-.hidden {
-    display: none;
+/* Visually hidden — accessible to screen readers */
+.visually-hidden {
+    border: 0;
+    clip: rect(0, 0, 0, 0);
+    height: 1px;
+    margin: -1px;
+    overflow: hidden;
+    padding: 0;
+    position: absolute;
+    width: 1px;
+    white-space: nowrap;
 }
 
 .our-menu {
@@ -208,9 +216,16 @@ input[type="submit"] {
 .thank-you {
     margin-top: 47px;
     background-color: rgba(185, 223, 248, 0.800);
-    font-size: 10px;
+    font-size: 100%;
     margin-left: 10px;
     margin-right: 10px;
+    padding: 1rem;
+}
+
+.thank-you p {
+    text-transform: uppercase;
+    font-weight: 300;
+    margin-top: 0.5rem;
 }
 form > h2{
     font-size: 120%;
@@ -230,6 +245,14 @@ form > h2{
     font-size: xx-large;
     padding: 5%;
     color: darkslategray;
+}
+
+#menu a:focus-visible,
+#social-networks a:focus-visible,
+input:focus-visible,
+.nav-toggle-label:focus-visible {
+    outline: 2px solid darkslategray;
+    outline-offset: 2px;
 }
 
 /* Media query for tablet and larger screens (768px and up) */
@@ -328,9 +351,9 @@ form > h2{
         justify-content: space-between;
         margin-top: 55px;
     }
-    #our-story .intro
-    #our-story .waffle-history
-    #our-story .mission
+    #our-story .intro,
+    #our-story .waffle-history,
+    #our-story .mission,
     #our-story .contact {
         font-size: 15px;
     }
@@ -348,7 +371,7 @@ form > h2{
     #menu a:hover{
         border-bottom: 1px solid #3a3a3a;
     }
-    logo {
+    #logo {
         font-size: 200%;
         text-align: center;
     }
